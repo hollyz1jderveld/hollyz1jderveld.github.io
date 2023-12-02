@@ -9,6 +9,7 @@ As part of my degree in CADS, we complete a year long self-created ethnographic 
 
 ### Poetry and other creative writing and such
 In my so far short life I've written quite a few pieces of of poetry and other creative (non-)fiction pieces, and some of these are published online. Here are the ones I still like looking back on, but I'm sure you can find more if you want to google it. 
+
 ['i wish you were here' & 'Haibun One: Devon 2021': *Published in celeste poetry, Issue 1, page 27 in September 2021*](https://celestitepoetry.wixsite.com/journal/issues)
 
 ['Don't Be Surprised: A found poem after 'Train Song,' by Fiest': *Published in warning lines, Issue 2 'Echo', page 33 in September 2021*](https://www.warninglines.com/_files/ugd/f808f7_e036a27294e4412b96ecc98522eebbc1.pdf)
