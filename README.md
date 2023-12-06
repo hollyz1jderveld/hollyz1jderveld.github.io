@@ -6,7 +6,8 @@ I'm a student of Cultural Anthropology and Development Sociology (CADS) at Unive
 As part of my degree in CADS, we complete a year long self-created ethnographic research project, on a topic of our choice. Together with Lila, Annika and Benjamín, we studied au pairs living in the Netherlands, the work that they do, and the ways in which they are treated in their time as an au pair. From this we created a 50 page research report, finding that the mismatched expectations of those involved in the au pair industry caused a great deal of harm for everyone involved (but mainly au pairs). 
 #### Writing published about this fieldwork:
 ['Studying the Sensible Side of Love in the Netherlands': *Published by The Maintainers in November 2023*](https://themaintainers.org/studying-the-sensible-side-of-love-in-the-netherlands/)
-*[It was also published by the Leiden Anthropology Blog!](https://www.leidenanthropologyblog.nl/articles/studying-the-sensible-side-of-love-in-the-netherlands)
+
+*[It was also published by the Leiden Anthropology Blog!](https://www.leidenanthropologyblog.nl/articles/studying-the-sensible-side-of-love-in-the-netherlands)*
 
 ### Poetry and other creative writing and such
 In my so far short life I've written quite a few pieces of of poetry and other creative (non-)fiction pieces, and some of these are published online. Here are the ones I still like looking back on, but I'm sure you can find more if you want to google it. 
