@@ -1,11 +1,19 @@
 /* @import "{{ minima }}"; */
 
 body {
-    color:#818181;
+    color:#a5a5a5;
     background-color: #b0cfbc; /* Replace #ADD8E6 with your desired color code */
     font-family: 'Georgia';
 }
 
 h2 {
     color: #ff6d82; /* Pastel Pink */
+}
+
+a:link {
+    color:#ff6d82; 
+}
+
+a:visited {
+    color:blueviolet
 }
