@@ -1,11 +1,11 @@
 /* @import "{{ minima }}"; */
 
 body {
-    background-color: #ffe9a8; /* Replace #ADD8E6 with your desired color code */
-    font-family: 'Courier New', monospace;
+    background-color: #86d8a5; /* Replace #ADD8E6 with your desired color code */
+    font-family: 'Georgia';
 
 }
 
-h1 {
-    color: #f3657a; /* Pastel Pink */
+h2 {
+    color: #fda1af; /* Pastel Pink */
 }
