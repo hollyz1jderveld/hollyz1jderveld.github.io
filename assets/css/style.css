@@ -1,13 +1,15 @@
 /* @import "{{ minima }}"; */
 
 body {
-    color:#a5a5a5;
+    color:#908f8f;
     background-color: #b0cfbc; /* Replace #ADD8E6 with your desired color code */
     font-family: 'Georgia';
+    margin-right: 40px;
 }
 
 h2 {
     color: #ff6d82; /* Pastel Pink */
+    text-align: center;
 }
 
 a:link {
