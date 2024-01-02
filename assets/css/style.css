@@ -1,9 +1,9 @@
 /* @import "{{ minima }}"; */
 
 body {
+    color:#818181;
     background-color: #9cceaf; /* Replace #ADD8E6 with your desired color code */
     font-family: 'Georgia';
-    color: #818181;
 }
 
 h2 {
