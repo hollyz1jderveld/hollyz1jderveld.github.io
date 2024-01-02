@@ -5,12 +5,14 @@ body {
     background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/A_Glacier_from_the_Muztagh_Ata.jpg/2560px-A_Glacier_from_the_Muztagh_Ata.jpg);
     /*background-color: #b0cfbc; /* Replace #ADD8E6 with your desired color code */
     font-family: 'Georgia';
+    margin-left: 40px;
     margin-right: 80px;
 }
 
 h2 {
     color: #ff6d82; /* Pastel Pink */
     text-align: center;
+    font-family: 'Lucida Console';
 }
 
 a:link {
