@@ -4,7 +4,7 @@ layout: default
 ## holly zijderveld
 #### this is a site where I'll put things I'm interested in, and things I've made and worked on and created. 
 
-In my personal life, I'm interested i fibre and paper, and all of the things I can do with them. I'm interesting in knitting, philately, writing, and archiving.
+In my personal life, I'm interested in fibre and paper, and all of the things I can do with them. I'm interesting in knitting, philately, writing, and archiving.
 
 Academically, I'm a student of Cultural Anthropology and Development Sociology (CADS) at Universiteit Leiden, in the Netherlands. I'm especially interested in how people relate to knowledge, and the ways in which this knowledge manifests.
 
