@@ -11,14 +11,7 @@ Academically, I'm a student of Cultural Anthropology and Development Sociology (
 Of course, this all intersects. I'll put all of this here. 
 
 ### Projects
-Coming: Blog
-Coming: Youtube channel
-Coming: Biographic zines
-Coming: Open-source zines
-Coming: Travel zines
-Coming: Reading list
-Coming: Interview series
-
+Coming: Blog / Coming: Youtube channel / Coming: Biographic zines / Coming: Open-source zines / Coming: Travel zines / Coming: Reading list / Coming: Interview series
 
 ### Fieldwork 2022-2023: The Care of an Au Pair
 As part of my degree in CADS, we complete a year long self-created ethnographic research project, on a topic of our choice. Together with Lila, Annika and Benjamín, we studied au pairs living in the Netherlands, the work that they do, and the ways in which they are treated in their time as an au pair. From this we created a 50 page research report, finding that the mismatched expectations of those involved in the au pair industry caused a great deal of harm for everyone involved (but mainly au pairs). 
