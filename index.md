@@ -10,6 +10,8 @@ Academically, I'm a student of Cultural Anthropology and Development Sociology (
 
 Of course, this all intersects. I'll put all of this here. 
 
+### First and foremost, I have a blog! You can read it [here](https://hollyz1jderveld.github.io/blog/contents)
+
 ### Projects
 Coming: Blog / Coming: Youtube channel / Coming: Biographic zines / Coming: Open-source zines / Coming: Travel zines / Coming: Reading list / Coming: Interview series
 
