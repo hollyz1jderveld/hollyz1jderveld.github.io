@@ -13,10 +13,11 @@ Of course, this all intersects. I'll put all of this here.
 ### First and foremost, I have a blog! You can read it [here](https://hollyz1jderveld.github.io/blog/contents)
 
 ### Projects
-Coming: Blog / Coming: Youtube channel / Coming: Biographic zines / Coming: Open-source zines / Coming: Travel zines / Coming: Reading list / Coming: Interview series
+[Useful or Interesting resources from around the internet!](https://gl0bsec.github.io/fun_websites.html) (authored by me and [Shiva](https://gl0bsec.github.io/))
+I'm also working on a fun little reading list, I'll put it here when I start work on it too.
 
 ### Fieldwork 2022-2023: The Care of an Au Pair
-As part of my degree in CADS, we complete a year long self-created ethnographic research project, on a topic of our choice. Together with Lila, Annika and Benjamín, we studied au pairs living in the Netherlands, the work that they do, and the ways in which they are treated in their time as an au pair. From this we created a 50 page research report, finding that the mismatched expectations of those involved in the au pair industry caused a great deal of harm for everyone involved (but mainly au pairs). 
+As part of my degree in CADS, we complete a year long self-created ethnographic research project, on a topic of our choice. Together with Lila, Annika, and Benjamín, we studied au pairs living in the Netherlands, the work that they do, and the ways in which they are treated in their time as an au pair. From this we created a 50 page research report, finding that the mismatched expectations of those involved in the au pair industry caused a great deal of harm for everyone involved (but mainly au pairs). 
 #### Writing published about this fieldwork:
 ['Studying the Sensible Side of Love in the Netherlands': *Published by The Maintainers in November 2023*](https://themaintainers.org/studying-the-sensible-side-of-love-in-the-netherlands/)
 
