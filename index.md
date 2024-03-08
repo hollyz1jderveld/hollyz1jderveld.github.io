@@ -2,22 +2,23 @@
 layout: default
 ---
 ## holly zijderveld
-#### this is a site where I'll put things I'm interested in, and things I've made and worked on and created. 
+#### This is a site where I'll put things I'm interested in, and things I've made and worked on and created. 
 
 In my personal life, I'm interested in fibre and paper, and all of the things I can do with them. I'm interesting in knitting, philately, writing, and archiving.
 
-Academically, I'm a student of Cultural Anthropology and Development Sociology (CADS) at Universiteit Leiden, in the Netherlands. I'm especially interested in how people relate to knowledge, and the ways in which this knowledge manifests.
+Academically, I'm a student of Cultural Anthropology and Development Sociology (CADS) at Universiteit Leiden, in the Netherlands. I'm especially interested in how people relate to knowledge, and the ways in which this knowledge manifests (mainly materially).
 
-Of course, this all intersects. I'll put all of this here. 
-
-### First and foremost, I have a blog! You can read it [here](https://hollyz1jderveld.github.io/blog/contents)
+### First and foremost, I have a blog! You can read it [here](https://hollyz1jderveld.github.io/blog/contents).
 
 ### Projects
-[Useful or Interesting resources from around the internet!](https://gl0bsec.github.io/fun_websites.html) (authored by me and [Shiva](https://gl0bsec.github.io/))
+[Useful or Interesting resources from around the internet!](https://gl0bsec.github.io/fun_websites.html) (authored by [Shiva](https://gl0bsec.github.io/) and me)
+
 I'm also working on a fun little reading list, I'll put it here when I start work on it too.
 
 ### Fieldwork 2022-2023: The Care of an Au Pair
 As part of my degree in CADS, we complete a year long self-created ethnographic research project, on a topic of our choice. Together with Lila, Annika, and Benjamín, we studied au pairs living in the Netherlands, the work that they do, and the ways in which they are treated in their time as an au pair. From this we created a 50 page research report, finding that the mismatched expectations of those involved in the au pair industry caused a great deal of harm for everyone involved (but mainly au pairs). 
+
+As a result of this, we've created a website collating resources for au pairs and aspiring host families, with the aim of encouraging realistic expectations about their time and being able to get help if they need it. You can find the website [here, @ https://thecareofanaupair.github.io](https://thecareofanaupair.github.io)
 #### Writing published about this fieldwork:
 ['Studying the Sensible Side of Love in the Netherlands': *Published by The Maintainers in November 2023*](https://themaintainers.org/studying-the-sensible-side-of-love-in-the-netherlands/)
 
@@ -41,6 +42,6 @@ In my so far short life I've written quite a few pieces of of poetry and other c
 ['Ecdysis': *Published by Sledgehammer Lit in March 2021*](https://www.sledgehammerlit.com/post/ecdysis-by-holly-zijderveld)
 
 ### Find me
-I love apps and websites to do with specific things with my hobbies. You can find me on [Ravelry](https://www.ravelry.com/people/Midnight4225), [Postcrossing](https://www.postcrossing.com/user/Midnight4225), or [The Storygraph](https://app.thestorygraph.com/profile/hollyzijderveld) to see what I knit, post, and read respectively. You can email me @ hollyzijderveld02@gmail.com. 
+I love apps and websites to do with specific things with my hobbies. You can find me on [Ravelry](https://www.ravelry.com/people/Midnight4225), [Postcrossing](https://www.postcrossing.com/user/Midnight4225), or [The Storygraph](https://app.thestorygraph.com/profile/hollyzijderveld) to see what I knit, post, and read respectively. You can email me @ [hollyzijderveld02@gmail.com](hollyzijderveld02@gmail.com). 
 
 
