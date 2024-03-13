@@ -21,9 +21,10 @@ As part of my degree in CADS, we complete a year long self-created ethnographic 
 As a result of this, we've created a website collating resources for au pairs and aspiring host families, with the aim of encouraging realistic expectations about their time and being able to get help if they need it. You can find the website [here, @ https://thecareofanaupair.github.io](https://thecareofanaupair.github.io).
 #### Writing published about this fieldwork:
 ['Studying the Sensible Side of Love in the Netherlands': *Published by The Maintainers in November 2023*](https://themaintainers.org/studying-the-sensible-side-of-love-in-the-netherlands/)
-['Fieldwork NL on au pairs and thesis on public policy win Speckmann Awards 2024': *Universiteit Leiden, News*](https://www.universiteitleiden.nl/en/news/2024/03/fieldwork-nl-on-au-pairs-and-thesis-on-public-policy-win-speckmann-awards-2024)
 
 *[It was also published by the Leiden Anthropology Blog!](https://www.leidenanthropologyblog.nl/articles/studying-the-sensible-side-of-love-in-the-netherlands)*
+
+['Fieldwork NL on au pairs and thesis on public policy win Speckmann Awards 2024': *Universiteit Leiden, News*](https://www.universiteitleiden.nl/en/news/2024/03/fieldwork-nl-on-au-pairs-and-thesis-on-public-policy-win-speckmann-awards-2024)
 
 ### Poetry and other creative writing and such
 In my so far short life I've written quite a few pieces of of poetry and other creative (non-)fiction pieces, and some of these are published online. Here are the ones I still like looking back on, but I'm sure you can find more if you want to google it. 
