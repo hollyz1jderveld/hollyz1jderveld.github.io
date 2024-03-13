@@ -44,6 +44,6 @@ In my so far short life I've written quite a few pieces of of poetry and other c
 ['Ecdysis': *Published by Sledgehammer Lit in March 2021*](https://www.sledgehammerlit.com/post/ecdysis-by-holly-zijderveld)
 
 ### Find me
-I love apps and websites to do with specific things with my hobbies. You can find me on [Ravelry](https://www.ravelry.com/people/Midnight4225), [Postcrossing](https://www.postcrossing.com/user/Midnight4225), or [The Storygraph](https://app.thestorygraph.com/profile/hollyzijderveld) to see what I knit, post, and read respectively. You can email me @ [hollyzijderveld02@gmail.com](hollyzijderveld02@gmail.com). 
+I love apps and websites to do with specific things with my hobbies. You can find me on [Ravelry](https://www.ravelry.com/people/Midnight4225), [Postcrossing](https://www.postcrossing.com/user/Midnight4225), or [The Storygraph](https://app.thestorygraph.com/profile/hollyzijderveld) to see what I knit, post, and read respectively. You can email me @ [hollyzijderveld02@gmail.com](mailto:hollyzijderveld02@gmail.com). 
 
 
