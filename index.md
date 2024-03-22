@@ -17,6 +17,9 @@ Academically, I'm a student of Cultural Anthropology and Development Sociology (
 
 ### Academic endeavors
 
+#### BSc Thesis
+Currently I'm writing my BSc thesis. It's a little daunting but super exciting none the less! I'm currently looking into research about sex robots and learning some new methodologies. That's all I'll say for now!
+
 #### Fieldwork 2022-2023: The Care of an Au Pair
 As part of my degree in CADS, we complete a year long self-created ethnographic research project, on a topic of our choice. Together with Lila, Annika, and Benjamín, we studied au pairs living in the Netherlands, the work that they do, and the ways in which they are treated in their time as an au pair. From this we created a 50 page research report, finding that the mismatched expectations of those involved in the au pair industry caused a great deal of harm for everyone involved (but mainly au pairs). 
 
@@ -46,6 +49,6 @@ In my so far short life I've written quite a few pieces of of poetry and other c
 ['Ecdysis': *Published by Sledgehammer Lit in March 2021*](https://www.sledgehammerlit.com/post/ecdysis-by-holly-zijderveld)
 
 ### Find me
-I love apps and websites to do with specific things with my hobbies. You can find me on [Ravelry](https://www.ravelry.com/people/Midnight4225), [Postcrossing](https://www.postcrossing.com/user/Midnight4225), or [The Storygraph](https://app.thestorygraph.com/profile/hollyzijderveld) to see what I knit, post, and read respectively. You can email me @ [hollyzijderveld02@gmail.com](mailto:hollyzijderveld02@gmail.com). 
+I love apps and websites to do with specific things with my hobbies. You can find me on [Ravelry](https://www.ravelry.com/people/Midnight4225), [Postcrossing](https://www.postcrossing.com/user/Midnight4225), or [The Storygraph](https://app.thestorygraph.com/profile/hollyzijderveld) to see what I knit, post, and read respectively. I'm on Bluesky, my username is @hollyzijderveld.bsky.social. You can email me @ [hollyzijderveld02@gmail.com](mailto:hollyzijderveld02@gmail.com). 
 
 
