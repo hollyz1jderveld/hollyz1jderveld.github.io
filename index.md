@@ -51,4 +51,6 @@ In my so far short life I've written quite a few pieces of of poetry and other c
 ### Find me
 I love apps and websites to do with specific things with my hobbies. You can find me on [Ravelry](https://www.ravelry.com/people/Midnight4225), [Postcrossing](https://www.postcrossing.com/user/Midnight4225), or [The Storygraph](https://app.thestorygraph.com/profile/hollyzijderveld) to see what I knit, post, and read respectively. I'm on Bluesky, my username is @hollyzijderveld.bsky.social. You can email me @ [hollyzijderveld02@gmail.com](mailto:hollyzijderveld02@gmail.com). 
 
+***Disclaimer*** I am a very beginner coder and web developer. This was all done by scratch and I tend to get very frustrated when things with it don't go my way! I'm working through it, but it means I can't often work on the website and debug for a very long time. So if something doesn't work, feel free to email me about it, but I'm probably already trying to fix it :)
+
 
