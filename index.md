@@ -13,7 +13,7 @@ Academically, I'm a student of Cultural Anthropology and Development Sociology (
 ### Projects
 [Useful or Interesting resources from around the internet!](https://gl0bsec.github.io/fun_websites.html) (authored by [Shiva](https://gl0bsec.github.io/) and me)
 
-[Reading list!](https://hollyz1jderveld.github.io/websites/reading-list)
+[Reading list!](https://hollyz1jderveld.github.io/websites/reading-list.html)
 
 ### Academic endeavors
 
