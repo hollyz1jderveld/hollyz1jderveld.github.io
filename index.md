@@ -53,7 +53,7 @@ I love apps and websites to do with specific things with my hobbies.
 
 You can find me on [Ravelry](https://www.ravelry.com/people/Midnight4225), [Postcrossing](https://www.postcrossing.com/user/Midnight4225), or [The Storygraph](https://app.thestorygraph.com/profile/hollyzijderveld) to see what I knit, post, and read respectively. 
 
-I'm on [[are.na]](https://www.are.na/holly-zijderveld/channels) (all the time).
+I'm on [are.na](https://www.are.na/holly-zijderveld/channels) (all the time).
 
 I'm on Bluesky, my username is @hollyzijderveld.bsky.social. 
 
