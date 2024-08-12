@@ -15,10 +15,10 @@ Academically, I'm a student of Global Ethnography at Universiteit Leiden, in the
 
 [Reading list!](https://hollyz1jderveld.github.io/reading-list/)
 
-### Academic endeavors
+### Currently in academic endeavors
 
 #### BSc Thesis 2024
-I just finished writing my BSc Thesis in Cultural Anthropology & Development Sociology!! It's titled *Talking About Sex Robots: Mapping academic controversy in sex robot discourse*. Using the methodology of controversy mapping, I looked at the academic conversations and debates that have been happening around sex robots since 2007. Specifically, I look into the ways in which some arguments (made by people who oppose sex robots) resemble arguments made by second-wave anti-pornography feminists and hide transphobic/anti-sex worker beliefs underneath. You can download and read it on [researchgate](https://www.researchgate.net/publication/382625206_Talking_About_Sex_Robots_Mapping_academic_controversy_in_sex_robot_discourse), or you can email me (my email is at the bottom of the page) and I'll send it over to you.
+I just finished writing my BSc Thesis in Cultural Anthropology & Development Sociology!! It's titled *Talking About Sex Robots: Mapping academic controversy in sex robot discourse*. Using the methodology of controversy mapping, I looked at the academic conversations and debates that have been happening around sex robots since 2007. Specifically, I look into the ways in which some arguments (made by people who oppose sex robots) resemble arguments made by second-wave anti-pornography feminists and hide transphobic/anti-sex worker beliefs underneath. You can download and read it on [researchgate](https://www.researchgate.net/publication/382625206_Talking_About_Sex_Robots_Mapping_academic_controversy_in_sex_robot_discourse), or you can email me (address at the bottom of the page) and I'll send it over to you.
 
 #### Fieldwork 2022-2023: The Care of an Au Pair
 As part of my degree in CADS, we complete a year long self-created ethnographic research project, on a topic of our choice. Together with Lila, Annika, and Benjamín, we studied au pairs living in the Netherlands, the work that they do, and the ways in which they are treated in their time as an au pair. From this we created a 50 page research report, finding that the mismatched expectations of those involved in the au pair industry caused a great deal of harm for everyone involved (but mainly au pairs). 
@@ -31,22 +31,23 @@ As a result of this, we're creating a website collating resources for au pairs a
 
 ['Fieldwork NL on au pairs and thesis on public policy win Speckmann Awards 2024': *Universiteit Leiden, News*](https://www.universiteitleiden.nl/en/news/2024/03/fieldwork-nl-on-au-pairs-and-thesis-on-public-policy-win-speckmann-awards-2024)
 
-### Poetry and other creative writing and such
-In my so far short life I've written quite a few pieces of of poetry and other creative (non-)fiction pieces, and some of these are published online. Here are the ones I still like looking back on, but I'm sure you can find more if you want to google it. 
+### Currently in philetaly
+I am currently working on several thematic stamp collections! See them below:
 
-['i wish you were here' & 'Haibun One: Devon 2021': *Published in celeste poetry, Issue 1, page 27 in September 2021*](https://celestitepoetry.wixsite.com/journal/issues)
+[Olympics] [Spanish costume series] [Trains] [Fish] [Information and telecommunication technologies] [Maps] [Aeroplanes]
 
-['Don't Be Surprised: A found poem after 'Train Song,' by Fiest': *Published in warning lines, Issue 2 'Echo', page 33 in September 2021*](https://www.warninglines.com/_files/ugd/f808f7_e036a27294e4412b96ecc98522eebbc1.pdf)
+### Currently in writing
+In my so far short life I've written quite a few pieces of of poetry and other creative (non-)fiction pieces, and some of these are published online. Here are ones I like looking back on, but I'm sure you can find more if you want to google it. 
 
-['Pink': *Published in Paper Crane, Issue 2 'Flight', page 30 in June 2021*](https://www.calameo.com/read/0066295039cc17c27046b?authid=CCXTNUkrflKT)
+[Two poems about travel and missing the ones you love *Issue 1, page 27*](https://celestitepoetry.wixsite.com/journal/issues)
 
-['Lover, I've Waited Forver to Find You': *Published by Paper Crane in June 2021*](https://www.papercranejournal.com/lover-ive-waited-forever-to-find-you-zijderveld.html)
+[A poem also about missing your lover *page 33*](https://warninglines.com/vol02/)
 
-['Clementine': *Published by Spillover Magazine in April 2021*](https://spillovermagazine.wordpress.com/2021/05/01/clementine/)
+[A short prose about combined joy *page 30*](https://www.calameo.com/read/0066295039cc17c27046b?authid=CCXTNUkrflKT)
 
-['Make My Heart Drop (After 'Take Me Somewhere Nice', a film By Ena Sendijarević): *Published in HOLYFLEA!, Issue 1, page 24 in May 2021*](https://holyflea.files.wordpress.com/2021/04/holyflea-issue-one.pdf)
+[A short prose piece about feeling like someone is picking you apart and leaving you behind, or about sex](https://spillovermagazine.wordpress.com/2021/05/01/clementine/)
 
-['Ecdysis': *Published by Sledgehammer Lit in March 2021*](https://www.sledgehammerlit.com/post/ecdysis-by-holly-zijderveld)
+[A poem about wanting danger in love: *Published in HOLYFLEA!, Issue 1, page 24 in May 2021*](https://holyflea.files.wordpress.com/2021/04/holyflea-issue-one.pdf)
 
 ### Find me
 I love apps and websites to do with specific things with my hobbies. 
