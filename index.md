@@ -13,12 +13,12 @@ Academically, I'm a student of Global Ethnography at Universiteit Leiden, in the
 ### Projects
 [Useful or Interesting resources from around the internet!](https://gl0bsec.github.io/fun_websites.html) (authored by [Shiva](https://gl0bsec.github.io/) and me)
 
-[Reading list!](https://hollyz1jderveld.github.io/reading-list/)
+[Reading list! (aka books I liked!)](https://hollyz1jderveld.github.io/reading-list/)
 
 ### Currently in academic endeavors
 
 #### BSc Thesis 2024
-I just finished writing my BSc Thesis in Cultural Anthropology & Development Sociology!! It's titled *Talking About Sex Robots: Mapping academic controversy in sex robot discourse*. Using the methodology of controversy mapping, I looked at the academic conversations and debates that have been happening around sex robots since 2007. Specifically, I look into the ways in which some arguments (made by people who oppose sex robots) resemble arguments made by second-wave anti-pornography feminists and hide transphobic/anti-sex worker beliefs underneath. You can download and read it on [researchgate](https://www.researchgate.net/publication/382625206_Talking_About_Sex_Robots_Mapping_academic_controversy_in_sex_robot_discourse), or you can email me (address at the bottom of the page) and I'll send it over to you.
+I recently finished writing my BSc Thesis in Cultural Anthropology & Development Sociology!! It's titled *Talking About Sex Robots: Mapping academic controversy in sex robot discourse*. Using the methodology of controversy mapping, I looked at the academic conversations and debates that have been happening around sex robots since 2007. Specifically, I look into the ways in which some arguments (made by people who oppose sex robots) resemble arguments made by second-wave anti-pornography feminists and hide transphobic/anti-sex worker beliefs underneath. You can download and read it on [researchgate](https://www.researchgate.net/publication/382625206_Talking_About_Sex_Robots_Mapping_academic_controversy_in_sex_robot_discourse), or you can email me (address at the bottom of the page) and I'll send it over to you.
 
 #### Fieldwork 2022-2023: The Care of an Au Pair
 As part of my degree in CADS, we complete a year long self-created ethnographic research project, on a topic of our choice. Together with Lila, Annika, and Benjamín, we studied au pairs living in the Netherlands, the work that they do, and the ways in which they are treated in their time as an au pair. From this we created a 50 page research report, finding that the mismatched expectations of those involved in the au pair industry caused a great deal of harm for everyone involved (but mainly au pairs). 
@@ -32,7 +32,7 @@ As a result of this, we're creating a website collating resources for au pairs a
 ['Fieldwork NL on au pairs and thesis on public policy win Speckmann Awards 2024': *Universiteit Leiden, News*](https://www.universiteitleiden.nl/en/news/2024/03/fieldwork-nl-on-au-pairs-and-thesis-on-public-policy-win-speckmann-awards-2024)
 
 ### Currently in philetaly
-I am currently working on several thematic stamp collections! See them below:
+I am currently working on several thematic stamp collections! You will soon be able to see them below:
 
 [Olympics] [Spanish costume series] [Trains] [Fish] [Information and telecommunication technologies] [Maps] [Aeroplanes]
 
@@ -54,12 +54,12 @@ I love apps and websites to do with specific things with my hobbies.
 
 You can find me on [Ravelry](https://www.ravelry.com/people/Midnight4225), [Postcrossing](https://www.postcrossing.com/user/Midnight4225), or [The Storygraph](https://app.thestorygraph.com/profile/hollyzijderveld) to see what I knit, post, and read respectively. 
 
-I'm on [are.na](https://www.are.na/holly-zijderveld/channels) (all the time).
+I'm on [are.na](https://www.are.na/holly-zijderveld/channels).
 
 I'm on Bluesky, my username is @hollyzijderveld.bsky.social. 
 
 You can email me @ [hollyzijderveld02[at]gmail.com](mailto:hollyzijderveld02@gmail.com). If you want to contact me this is the best way to do so!
 
-***Disclaimer*** I am a very beginner coder and web developer. This was all done by scratch and I tend to get very frustrated when things with it don't go my way! I'm working through it, but it means I can't often work on the website and debug for a very long time. So if something doesn't work, feel free to email me about it, but I'm probably already trying to fix it :)
+***Disclaimer*** I am a very beginner coder and web developer. This was mostly done by scratch! I'm working through it, but it means I can't often work on the website and debug for a very long time. So if something doesn't work, feel free to email me about it, but I'm probably already trying to fix it :)
 
 
