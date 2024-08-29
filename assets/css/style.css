@@ -2,8 +2,7 @@
 
 body {
     color:#151515;
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Water_texture_1390054_Nevit.jpg/1600px-Water_texture_1390054_Nevit.jpg?20130904084403);
-        filter: saturate(50%);
+    background-color: #fbe1e1;
     margin-left: 50px;
     margin-right: 100px;
 }
@@ -15,7 +14,7 @@ h2 {
 }
 
 a:link {
-    color:#eee41d; 
+    color:#f383ac; 
 }
 
 a:visited {
