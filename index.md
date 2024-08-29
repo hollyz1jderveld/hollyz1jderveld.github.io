@@ -2,7 +2,7 @@
 layout: default
 ---
 ## holly zijderveld
-#### This is a site where I'll put things I'm interested in, and things I've made, worked on, and created. 
+#### This is a site where I'll put things I'm interested in, I've made, worked on, and created. 
 
 In my personal life, I'm interested in fibre, paper, and technology, and all of the things I can do with them. I'm interested in knitting, philately, writing, and archiving.
 
