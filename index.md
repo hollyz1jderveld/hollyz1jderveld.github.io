@@ -62,4 +62,4 @@ You can email me @ [hollyzijderveld02[at]gmail.com](mailto:hollyzijderveld02@gma
 
 ***Disclaimer*** I am a very beginner coder and web developer. This was mostly done by scratch! I'm working through it, but it means I can't often work on the website and debug for a very long time. So if something doesn't work, feel free to email me about it, but I'm probably already trying to fix it :)
 
-
+Image credit to D. Sharon Pruitt under a [CC BY 2.0 license](https://creativecommons.org/licenses/by/2.0/).
