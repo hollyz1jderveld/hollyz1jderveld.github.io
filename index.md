@@ -15,21 +15,15 @@ Academically, I'm a student of Global Ethnography at Universiteit Leiden, in the
 
 [Reading list! (aka books I liked!)](https://hollyz1jderveld.github.io/reading-list/)
 
-### Currently in academic endeavors
+### Currently in academic endeavours
+
+#### Master's research 2024-2025
+10-09-2024 I have just started my master in Global Ethnography! Over the summer, I became more and more interested in STS, and the ways in which it relates to my own life and interests. Primarily, knitting! Right now, I am planning a research project to look at the relationship between people and the knitting machines that they work on, and how this relationship may or may not encourage thinking about the history of knitting/computing, stereotypes around knitting/computing, and community connections. I'm in the very early stages right now, but if you want to talk about it with me then please, I'd love to!!
 
 #### BSc Thesis 2024
 I recently finished writing my BSc Thesis in Cultural Anthropology & Development Sociology!! It's titled *Talking About Sex Robots: Mapping academic controversy in sex robot discourse*. Using the methodology of controversy mapping, I looked at the academic conversations and debates that have been happening around sex robots since 2007. Specifically, I look into the ways in which some arguments (made by people who oppose sex robots) resemble arguments made by second-wave anti-pornography feminists and hide transphobic/anti-sex worker beliefs underneath. You can download and read it on [researchgate](https://www.researchgate.net/publication/382625206_Talking_About_Sex_Robots_Mapping_academic_controversy_in_sex_robot_discourse), or you can email me (address at the bottom of the page) and I'll send it over to you.
 
-#### Fieldwork 2022-2023: The Care of an Au Pair
-As part of my degree in CADS, we complete a year long self-created ethnographic research project, on a topic of our choice. Together with Lila, Annika, and Benjamín, we studied au pairs living in the Netherlands, the work that they do, and the ways in which they are treated in their time as an au pair. From this we created a 50 page research report, finding that the mismatched expectations of those involved in the au pair industry caused a great deal of harm for everyone involved (but mainly au pairs). 
-
-As a result of this, we're creating a website collating resources for au pairs and aspiring host families, with the aim of encouraging realistic expectations about their time and being able to get help if they need it. You can find the website [here, @ https://thecareofanaupair.github.io](https://thecareofanaupair.github.io).
-##### Writing published about this fieldwork:
-['Studying the Sensible Side of Love in the Netherlands': *Published by The Maintainers in November 2023*](https://themaintainers.org/studying-the-sensible-side-of-love-in-the-netherlands/) (Written with John Boy and the other students in our supervision group)
-
-*[It was also published by the Leiden Anthropology Blog!](https://www.leidenanthropologyblog.nl/articles/studying-the-sensible-side-of-love-in-the-netherlands)*
-
-['Fieldwork NL on au pairs and thesis on public policy win Speckmann Awards 2024': *Universiteit Leiden, News*](https://www.universiteitleiden.nl/en/news/2024/03/fieldwork-nl-on-au-pairs-and-thesis-on-public-policy-win-speckmann-awards-2024)
+**Find previous academic endeavours on the [blog](https://hollyz1jderveld.github.io/blog/contents) under anything called 'academic endeavours archive'.**
 
 ### Currently in philetaly
 I am currently working on several thematic stamp collections! You will soon be able to see them below:
