@@ -8,15 +8,15 @@ body {
 }
 
 h2 {
-    color: #ff6a80; /* Pastel Pink */
+    color: #fe6b81; /* Pastel Pink */
     text-align: center;
     font-family: 'Lucida Console';
 }
 
 a:link {
-    color:#f383ac; 
+    color:#9663b6; 
 }
 
 a:visited {
-    color:rgb(242, 40, 40)
+    color:rgb(255, 126, 177)
 }
