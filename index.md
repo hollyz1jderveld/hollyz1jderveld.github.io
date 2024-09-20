@@ -4,6 +4,8 @@ layout: default
 ## holly zijderveld
 #### This is a site where I'll put things I'm interested in, I've made, worked on, and created. 
 
+*My profile page can be found at [https://holly.omg.lol](https://holly.omg.lol)*
+
 In my personal life, I'm interested in fibre, paper, and technology, and all of the things I can do with them. I'm interested in knitting, philately, writing, and archiving.
 
 Academically, I'm a student of Global Ethnography at Universiteit Leiden, in the Netherlands. I'm especially interested in how people relate to knowledge, and the ways in which this knowledge manifests materially. 
@@ -55,5 +57,3 @@ I'm on Bluesky, my username is @hollyzijderveld.bsky.social.
 You can email me @ [hollyzijderveld02[at]gmail.com](mailto:hollyzijderveld02@gmail.com). If you want to contact me this is the best way to do so!
 
 ***Disclaimer*** I am a very beginner coder and web developer. This was mostly done by scratch! I'm working through it, but it means I can't often work on the website and debug for a very long time. So if something doesn't work, feel free to email me about it, but I'm probably already trying to fix it :)
-
-Image credit to D. Sharon Pruitt under a [CC BY 2.0 license](https://creativecommons.org/licenses/by/2.0/).
