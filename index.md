@@ -57,3 +57,5 @@ I'm on Bluesky, my username is @hollyzijderveld.bsky.social.
 You can email me @ holly[at]omg[dot]lol. If you want to contact me this is the best way to do so!
 
 ***Disclaimer*** I am a very beginner coder and web developer. This was mostly done by scratch! I'm working through it, but it means I can't often work on the website and debug for a very long time. So if something doesn't work, feel free to email me about it, but I'm probably already trying to fix it :)
+
+proven.lol/240a43
