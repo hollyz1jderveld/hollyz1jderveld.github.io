@@ -30,7 +30,7 @@ I recently finished writing my BSc Thesis in Cultural Anthropology & Development
 ### Currently in philetaly
 I am currently working on several thematic stamp collections! You will soon be able to see them below:
 
-[Olympics](https://hollyz1jderveld.github.io/blog/pages/olympics) [Spanish costume series] [Trains] [Fish] [Information and telecommunication technologies](https://hollyz1jderveld.github.io/blog/pages/telecommunication) [Maps] [Aeroplanes]
+[Olympics] [Spanish costume series] [Trains] [Fish] [Information and telecommunication technologies](https://hollyz1jderveld.github.io/blog/pages/telecommunication) [Maps] [Aeroplanes]
 
 ### Currently in writing
 In my so far short life I've written quite a few pieces of of poetry and other creative (non-)fiction pieces, and some of these are published online. Here are ones I like looking back on, but I'm sure you can find more if you want to google it. 
