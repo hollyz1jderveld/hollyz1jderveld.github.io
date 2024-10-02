@@ -19,6 +19,9 @@ Academically, I'm a student of Global Ethnography at Universiteit Leiden, in the
 
 ### Currently in academic endeavours
 
+#### Automath Archive
+02-10-2024 Alongside Rodrigo Ochigame, I am currently researching the history of (one of) the first automatic proof checkers, called Automath. It was developed from the late 1960s - early 1980s by a mathematician named N. G. de Bruiijn. We're in the very early stages of this more exploratory research, as we are putting out feelers and getting an overview of what the archive situation looks like. Ideally, however, we'd like to learn more about the projects' link to mathematical philosophies such as intuitionism, and about hidden labour that may have taken place during the creation of the project. I'm really excited to get more into this project & see where it takes me!
+
 #### Master's research 2024-2025
 10-09-2024 I have just started my master in Global Ethnography! Over the summer, I became more and more interested in STS, and the ways in which it relates to my own life and interests. Primarily, knitting! Right now, I am planning a research project to look at the relationship between people and the knitting machines that they work on, and how this relationship may or may not encourage thinking about the history of knitting/computing, stereotypes around knitting/computing, and community connections. I'm in the very early stages right now, but if you want to talk about it with me then please, I'd love to!!
 
