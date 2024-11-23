@@ -21,7 +21,9 @@ Academically, I'm a student of Global Ethnography at Universiteit Leiden, in the
 ### Currently in academic endeavours
 
 #### Automath Archive
-02-10-2024 Alongside Rodrigo Ochigame, I am currently researching the history of (one of) the first automatic proof checkers, called Automath. It was developed from the late 1960s - early 1980s by a mathematician named N. G. de Bruijn. We're in the very early stages of this more exploratory research, as we are putting out feelers and getting an overview of what the archive situation looks like. Ideally, however, we'd like to learn more about the projects' link to mathematical philosophies such as intuitionism, and about hidden labour that may have taken place during the creation of the project. I'm really excited to get more into this project & see where it takes me!
+23-11-2024 I've been working on this project for almost two months now, and it's becoming really exciting! Most of the last two months have been focussed on understanding the project a little better, talking to some people who know about it and reading survey papers written about the project. Yesterday, we started the archive research, and it was really insightful. I'm feeling very hopeful about finding some interesting and insightful things! 
+
+[Archive of this project](https://hollyz1jderveld.github.io/blog/pages/before_automath)
 
 #### [Master's research 2024-2025](https://hollyz1jderveld.github.io/knitting-research)
 19-10-2024 I'm now well on the way with planning my research project into knitting machines and crafters, and the manifestations of the links between people, craft, and technology. I'm getting more excited by the day! I'm spending a lot of time reading and planning what I'll be doing in my fieldwork period, from January to March. I've created a website for the project, which you can find [here](https://hollyz1jderveld.github.io/knitting-research). The process is daunting for sure, but I think that it's going well.
@@ -60,7 +62,7 @@ You can find me on [Ravelry](https://www.ravelry.com/people/Midnight4225), [Post
 
 I'm on [are.na](https://www.are.na/holly-zijderveld/channels).
 
-I'm on Bluesky, my username is @hollyzijderveld.bsky.social. 
+I'm on Bluesky, my username is @hollyzijderveld.bsky.social. I'm also on Mastodon, my user is @holly@social.lol
 
 You can email me @ holly[at]omg[dot]lol. If you want to contact me this is the best way to do so!
 
