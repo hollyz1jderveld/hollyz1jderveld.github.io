@@ -1,10 +1,29 @@
 /* @import "{{ minima }}"; */
 
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Container to hold the sections */
+  .container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  /* Each section style */
+  .section {
+    width: 48%; /* Make each section take up roughly half of the container */
+    padding: 20px;
+  }
+  
 body {
     color:#460202;
     background-color: rgb(154, 220, 227);
-    margin-left: 50px;
-    margin-right: 50px;
 }
 
 h2 {
@@ -19,14 +38,4 @@ a:link {
 
 a:visited {
     color:rgb(252, 91, 155)
-}
-
-#words {
-    float: left;
-}
-
-#gallery {
-    float: right;
-    width: 200px;
-    margin-left: 30px;
 }

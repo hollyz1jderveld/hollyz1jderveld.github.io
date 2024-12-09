@@ -1,25 +1,46 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/style.css' | relative_url }}">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=EBGaramond">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <style>
-body {
+    body {
     font-family: "EBGaramond", serif;
-}
-
+    }
 </style>
 </head>
 <body>
-    {{ content }}
+    <div class="container">
+        <div class="section" id="section-1">
+          <!-- Content for section 1 will be loaded here -->
+        </div>
+        <div class="section" id="section-2">
+          <!-- Content for section 2 will be loaded here -->
+        </div>
+      </div>
+    
+    <script>
+        // Function to load Markdown content into the specified section
+        function loadMarkdown(url, elementId) {
+          fetch(url)
+            .then(response => response.text())
+            .then(data => {
+              const htmlContent = marked(data); // Convert Markdown to HTML
+              document.getElementById(elementId).innerHTML = htmlContent;
+            })
+            .catch(error => console.error('Error loading Markdown file:', error));
+        }
+    
+        // Load the Markdown files into each section
+        loadMarkdown('index.md', 'section-1');
+        loadMarkdown('section2.md', 'section-2');
+      </script>
 </body>
 </html>
 
-<section>
-    id="words"
-</section>
 
-<section>
-    id="gallery"
-</section>
+
