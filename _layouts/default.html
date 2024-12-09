@@ -10,35 +10,45 @@
 <style>
     body {
     font-family: "EBGaramond", serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    }
+    .container {
+        display: flex;
+        flex: 1;
+        margin: 20px;
+    }
+    .column {
+        flex: 1;
+        margin: 10px;
+        padding: 10px;
+        overflow-y: auto;
+    }
+    .column:first-child {
+        margin-right: 5px;
+    }
+    .column:last-child {
+        margin-left: 5px;
     }
 </style>
 </head>
 <body>
+    <header>
+        <h1> {{site.title}} </h1>
+    </header>
     <div class="container">
-        <div class="section" id="section-1">
-          <!-- Content for section 1 will be loaded here -->
+        <div class="column">
+          {{ site.data.left | markdownify }}
         </div>
-        <div class="section" id="section-2">
-          <!-- Content for section 2 will be loaded here -->
+        <div class="column">
+          {{ site.data.right | markdownify }}
         </div>
       </div>
-    
-    <script>
-        // Function to load Markdown content into the specified section
-        function loadMarkdown(url, elementId) {
-          fetch(url)
-            .then(response => response.text())
-            .then(data => {
-              const htmlContent = marked(data); // Convert Markdown to HTML
-              document.getElementById(elementId).innerHTML = htmlContent;
-            })
-            .catch(error => console.error('Error loading Markdown file:', error));
-        }
-    
-        // Load the Markdown files into each section
-        loadMarkdown('index.md', 'section-1');
-        loadMarkdown('section2.md', 'section-2');
-      </script>
+      <footer>
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+      </footer>
 </body>
 </html>
 

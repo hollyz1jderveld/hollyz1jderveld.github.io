@@ -1,2 +1,5 @@
 title: Holly Zijderveld
 theme: minima
+data_files:
+  - left: left.md
+  - right: right.md

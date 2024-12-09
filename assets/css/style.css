@@ -1,26 +1,5 @@
 /* @import "{{ minima }}"; */
-
-/* Basic reset */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
-  /* Container to hold the sections */
-  .container {
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
-    padding: 20px;
-  }
-  
-  /* Each section style */
-  .section {
-    width: 48%; /* Make each section take up roughly half of the container */
-    padding: 20px;
-  }
-  
+ 
 body {
     color:#460202;
     background-color: rgb(154, 220, 227);
