@@ -4,7 +4,7 @@ body {
     color:#460202;
     background-color: rgb(154, 220, 227);
     margin-left: 50px;
-    margin-right: 700px;
+    margin-right: 50px;
 }
 
 h2 {
@@ -19,4 +19,14 @@ a:link {
 
 a:visited {
     color:rgb(252, 91, 155)
+}
+
+#words {
+    float: left;
+}
+
+#gallery {
+    float: right;
+    width: 200px;
+    margin-left: 30px;
 }
