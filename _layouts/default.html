@@ -46,8 +46,11 @@
             {% include right.md %}
         </div>
         <div class="column">
-            {{ site.static_files | where: "name", "left.md" | first.content | markdownify }}
-        </div>        
+            {% capture left_content %}
+            {{ site.static_files | where: "name", "left.md" | first.content }}
+            {% endcapture %}
+            {{ left_content | markdownify }}
+        </div>                
     </div>
     <footer>
         <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
