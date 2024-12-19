@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 ## holly zijderveld
 #### This is a site where I'll put things I'm interested in, I've made, worked on, and created. 
 

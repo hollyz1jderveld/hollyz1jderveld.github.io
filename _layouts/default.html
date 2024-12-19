@@ -9,49 +9,14 @@
     <style>
         body {
             font-family: "EBGaramond", serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-        }
-        .container {
-            display: flex;
-            flex: 1;
-            margin: 20px;
-        }
-        .column {
-            flex: 1;
-            margin: 10px;
-            padding: 10px;
-            overflow-y: auto;
-        }
-        .column:first-child {
-            margin-right: 5px;
-        }
-        .column:last-child {
-            margin-left: 5px;
-        }
+            margin-left: 30;
+            margin-right: 700;
     </style>
 </head>
 <body>
     <header>
         <h1>{{ site.title }}</h1>
     </header>
-    <div class="container">
-        <!-- Include the left and right markdown files -->
-        <div class="column">
-            {% include left.md %}
-        </div>
-        <div class="column">
-            {% include right.md %}
-        </div>
-        <div class="column">
-            {% capture left_content %}
-            {{ site.static_files | where: "name", "left.md" | first.content }}
-            {% endcapture %}
-            {{ left_content | markdownify }}
-        </div>                
-    </div>
 </body>
 </html>
 
