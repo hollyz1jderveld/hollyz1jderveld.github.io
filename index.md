@@ -14,10 +14,10 @@ Academically, I'm a student of Global Ethnography at Universiteit Leiden, in the
 #### First and foremost, I have a blog! You can read it [here](https://hollyz1jderveld.github.io/blog/contents).
 *My new blog post: [alice_and_eve_2024](https://hollyz1jderveld.github.io/blog/pages/aae_2024)*
 
-### Projects
+### Projects & links
 [Useful or Interesting resources from around the internet!](https://gl0bsec.github.io/fun_websites.html) (authored by [Shiva](https://gl0bsec.github.io/) and me)
 
-[Reading list! (aka books I liked!)](https://hollyz1jderveld.github.io/reading-list/)
+[Reading list](https://hollyz1jderveld.github.io/reading-list/)
 
 ### Currently in academic endeavours
 
