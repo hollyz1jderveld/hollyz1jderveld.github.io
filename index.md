@@ -19,6 +19,8 @@ Academically, I'm a student of Global Ethnography at Universiteit Leiden, in the
 
 [Reading list](https://hollyz1jderveld.github.io/reading-list/)
 
+[CV]
+
 ### Currently in academic endeavours
 
 #### Automath Archive
@@ -32,7 +34,7 @@ Academically, I'm a student of Global Ethnography at Universiteit Leiden, in the
 [Archive of this project](https://hollyz1jderveld.github.io/blog/pages/before_masters)
 
 #### BSc Thesis 2024
-I recently finished writing my BSc Thesis in Cultural Anthropology & Development Sociology!! It's titled *Talking About Sex Robots: Mapping academic controversy in sex robot discourse*. Using the methodology of controversy mapping, I looked at the academic conversations and debates that have been happening around sex robots since 2007. Specifically, I look into the ways in which some arguments (made by people who oppose sex robots) resemble arguments made by second-wave anti-pornography feminists and hide transphobic/anti-sex worker beliefs underneath. You can download and read it on [researchgate](https://www.researchgate.net/publication/382625206_Talking_About_Sex_Robots_Mapping_academic_controversy_in_sex_robot_discourse), or you can email me (address at the bottom of the page) and I'll send it over to you.
+??-08-2024 I recently finished writing my BSc Thesis in Cultural Anthropology & Development Sociology!! It's titled *Talking About Sex Robots: Mapping academic controversy in sex robot discourse*. Using the methodology of controversy mapping, I looked at the academic conversations and debates that have been happening around sex robots since 2007. Specifically, I look into the ways in which some arguments (made by people who oppose sex robots) resemble arguments made by second-wave anti-pornography feminists and hide transphobic/anti-sex worker beliefs underneath. You can download and read it on [researchgate](https://www.researchgate.net/publication/382625206_Talking_About_Sex_Robots_Mapping_academic_controversy_in_sex_robot_discourse), or you can email me (address at the bottom of the page) and I'll send it over to you.
 
 09-11-2024 Davecat, who I interviewed for the thesis, recently wrote some of his thoughts about my thesis on his blog! You can read it [here](http://www.kuroneko-chan.com/echoes/?p=6748), and I'd reccomend reading some of his other blog posts too!
 
@@ -43,7 +45,7 @@ I am currently working on several thematic stamp collections! You will soon be a
 
 [Olympics] [Spanish costume series] [Trains] [Fish] [Information and telecommunication technologies](https://hollyz1jderveld.github.io/blog/pages/telecommunication) [Maps] [Aeroplanes]
 
-### Currently in writing
+### Previously in creative writing
 In my so far short life I've written quite a few pieces of of poetry and other creative (non-)fiction pieces, and some of these are published online. Here are ones I like looking back on, but I'm sure you can find more if you want to google it. 
 
 [Two poems about travel and missing the ones you love *Issue 1, page 27*](https://celestitepoetry.wixsite.com/journal/issues)
