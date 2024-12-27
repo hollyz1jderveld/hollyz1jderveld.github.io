@@ -5,21 +5,19 @@ layout: default
 ## holly zijderveld
 #### This is a site where I'll put things I'm interested in, I've made, worked on, and created. 
 
-*My profile page can be found at [https://holly.omg.lol](https://holly.omg.lol)*
+I'm an anthropologist focusing on science, technology, craft and information. I'm interested in fibre, paper, and technology, and all of the things I can do with them. This extends to knitting, philately, writing, and archiving.
 
-In my personal life, I'm interested in fibre, paper, and technology, and all of the things I can do with them. I'm interested in knitting, philately, writing, and archiving.
-
-Academically, I'm a student of Global Ethnography at Universiteit Leiden, in the Netherlands. I'm especially interested in how people relate to knowledge, and the ways in which this knowledge manifests materially. 
-
-#### First and foremost, I have a blog! You can read it [here](https://hollyz1jderveld.github.io/blog/contents).
+#### You can read my blog [here](https://hollyz1jderveld.github.io/blog/contents).
 *My new blog post: [alice_and_eve_2024](https://hollyz1jderveld.github.io/blog/pages/aae_2024)*
 
 ### Projects & links
+[CV](https://read.cv/zijderveld)
+
+[Profile site: https://holly.omg.lol/](https://holly.omg.lol)
+
 [Useful or Interesting resources from around the internet!](https://gl0bsec.github.io/fun_websites.html) (authored by [Shiva](https://gl0bsec.github.io/) and me)
 
 [Reading list](https://hollyz1jderveld.github.io/reading-list/)
-
-[CV]
 
 ### Currently in academic endeavours
 
@@ -68,7 +66,5 @@ I'm on [are.na](https://www.are.na/holly-zijderveld/channels).
 I'm on Bluesky, my username is @hollyzijderveld.bsky.social. I'm also on Mastodon, my user is @holly@social.lol
 
 You can email me @ holly[at]omg[dot]lol. If you want to contact me this is the best way to do so!
-
-***Disclaimer*** I am a very beginner coder and web developer. This was mostly done by scratch! I'm working through it, but it means I can't often work on the website and debug for a very long time. So if something doesn't work, feel free to email me about it, but I'm probably already trying to fix it :)
 
 proven.lol/240a43
