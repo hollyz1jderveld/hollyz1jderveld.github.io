@@ -3,7 +3,6 @@ layout: default
 ---
 
 ## holly zijderveld
-#### This is a site where I'll put things I'm interested in, I've made, worked on, and created. 
 
 I'm an anthropologist focusing on science, technology, craft and information. I'm interested in fibre, paper, and technology, and all of the things I can do with them. This extends to knitting, philately, writing, and archiving.
 
