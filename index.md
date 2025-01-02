@@ -60,4 +60,6 @@ I'm on Bluesky, my username is @hollyzijderveld.bsky.social. I'm also on Mastodo
 
 You can email me @ holly[at]omg[dot]lol. If you want to contact me this is the best way to do so!
 
+Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). You can use it under the same license, but please credit me!
+
 proven.lol/240a43
