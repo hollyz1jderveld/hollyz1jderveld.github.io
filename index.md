@@ -10,7 +10,7 @@ I'm an anthropologist (researcher, writer) focusing on science, technology, craf
 *My new blog post: [alice_and_eve_2024](https://hollyz1jderveld.github.io/blog/pages/aae_2024)*
 
 ### Projects & links
-[CV](https://read.cv/zijderveld) / [Profile site: https://holly.omg.lol/](https://holly.omg.lol) / [Useful or Interesting resources from around the internet!](https://gl0bsec.github.io/fun_websites.html) (authored by [Shiva](https://gl0bsec.github.io/) and me) / [Reading list](https://hollyz1jderveld.github.io/reading-list/)
+[Brief CV](https://read.cv/zijderveld) / [Profile site: https://holly.omg.lol/](https://holly.omg.lol) / [Useful or Interesting resources from around the internet!](https://gl0bsec.github.io/fun_websites.html) (authored by [Shiva](https://gl0bsec.github.io/) and me) / [Reading list](https://hollyz1jderveld.github.io/reading-list/) 
 
 ### Currently in academic endeavours
 
