@@ -4,7 +4,7 @@ layout: default
 
 ## holly zijderveld
 
-I'm an anthropologist (researcher, writer) focusing on science, technology, craft and information. I'm interested in fibre, paper, and technology, and all of the things I can do with them. This extends to knitting, philately, writing, and archiving.
+Holly Zijderveld is an anthropologist (in-training, researcher, writer) focusing on science, technology, craft and information. She is currently studying at Leiden University. They are interested in materials and the ways in which we interact with them: fibre, paper, cables, metal, electricity. This extends to knitting, FLOSS & open science, mail & philetaly, writing, and archiving. Her work consistently interfaces with trans- and sex-worker- inclusive feminism.
 
 #### You can read my blog [here](https://hollyz1jderveld.github.io/blog/contents).
 *My new blog post: [alice_and_eve_2024](https://hollyz1jderveld.github.io/blog/pages/aae_2024)*
