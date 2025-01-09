@@ -15,12 +15,14 @@ Hi, I'm Holly! I'm an anthropologist (writer, researcher, student) passionate ab
 ### Currently in academic endeavours
 
 #### Automath Archive
-23-11-2024 I've been working on this project for almost two months now, and it's becoming really exciting! Most of the last two months have been focussed on understanding the project a little better, talking to some people who know about it and reading survey papers written about the project. Yesterday, we started the archive research, and it was really insightful. I'm feeling very hopeful about finding some interesting and insightful things! 
+09-01-2025 This project has really just been chugging along! I've been using a software called Tropy to organise images that I've been taking at the Noord Hollands Archief, where the N. G. de Bruijn's archive is stored. I've been working on translating many of them from Dutch to English. I've also been speaking to some people who worked on the Automath project back in the 1970s and 80s. I'm finding it really fascinating, especially learning about a whole world of mathematics that I, dropping maths as soon as posssible, had no idea about. It's also great linking it to the history of computing stuff that I'm learning for my master's research (and my own fun). Alongside this project, Rodrigo Ochigame and I are also working on some prompt engineering for academic-centred LLMs, to try and develop a way of searching anthropological literature that exists outside of many university library systems. Right now though, that's all just experiments.
 
 [Archive of this project](https://hollyz1jderveld.github.io/blog/pages/before_automath)
 
 #### [Master's research 2024-2025](https://hollyz1jderveld.github.io/knitting-research)
-19-10-2024 I'm now well on the way with planning my research project into knitting machines and crafters, and the manifestations of the links between people, craft, and technology. I'm getting more excited by the day! I'm spending a lot of time reading and planning what I'll be doing in my fieldwork period, from January to March. I've created a website for the project, which you can find [here](https://hollyz1jderveld.github.io/knitting-research). The process is daunting for sure, but I think that it's going well.
+09-01-2025 I'm now officially in the fieldwork period for this project! I'm spending my time organising and doing interviews with people who modify their knitting machines, and setting up my knitting machine so that I can install the AYAB hardware in it. Of course, fieldwork always comes with fieldnotes, and I'm also spending a lot of time writing stream-of-consciousness, making sure that I get all of my thoughts out. This is my first time doing fieldwork alone so I was worried that I would feel quite lonely, but I'm feeling really good about it so far. In late January I will travel to San Francisco to meet modified machine knitters there. I'm really excited! 
+
+On the back of this project, I am currently working on an are.na board called [The Fashionable Ethnographer](https://www.are.na/holly-zijderveld/the-fashionable-ethnographer), where I'm documenting my thinking about the clothes I wear in the field whilst studying a method of garment construction.
 
 [Archive of this project](https://hollyz1jderveld.github.io/blog/pages/before_masters)
 
@@ -31,7 +33,7 @@ Hi, I'm Holly! I'm an anthropologist (writer, researcher, student) passionate ab
 
 **Find previous academic endeavours on the [blog](https://hollyz1jderveld.github.io/blog/contents) under anything called 'academic endeavours archive'.**
 
-### Currently in philetaly
+### Currently in philately
 I am currently working on several thematic stamp collections! You will soon be able to see them below:
 
 [Olympics] [Spanish costume series] [Trains] [Fish] [Information and telecommunication technologies](https://hollyz1jderveld.github.io/blog/pages/telecommunication) [Maps] [Aeroplanes]
