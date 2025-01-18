@@ -10,7 +10,7 @@ Hi, I'm Holly! I'm an anthropologist (writer, researcher, student) passionate ab
 *My new blog post: [alice_and_eve_2024](https://hollyz1jderveld.github.io/blog/pages/aae_2024)*
 
 ### Projects & links
-[Brief CV](https://read.cv/zijderveld) / [Profile site: https://holly.omg.lol/](https://holly.omg.lol) / [Useful or Interesting resources from around the internet!](https://gl0bsec.github.io/fun_websites.html) (authored by [Shiva](https://gl0bsec.github.io/) and me) / [Reading list](https://hollyz1jderveld.github.io/reading-list/) 
+[Index](https://docs.google.com/spreadsheets/d/1y4NmsSBaGFjlWp-sXLSMXYOCZxNIAE_ebl15iW0CsJI/edit?usp=sharing) / [Profile site: https://holly.omg.lol/](https://holly.omg.lol) / [Useful or Interesting resources from around the internet!](https://gl0bsec.github.io/fun_websites.html) (authored by [Shiva](https://gl0bsec.github.io/) and me) / [Reading list](https://hollyz1jderveld.github.io/reading-list/) 
 
 ### Currently in academic endeavours
 
