@@ -30,7 +30,7 @@ On the back of this project, I am currently working on an are.na board called [T
 
 09-11-2024 Davecat, who I interviewed for the thesis, recently wrote some of his thoughts about my thesis on his blog! You can read it [here](http://www.kuroneko-chan.com/echoes/?p=6748), and I'd reccomend reading some of his other blog posts too!
 
-**Find previous academic endeavours on the [blog](https://hollyz1jderveld.github.io/blog/contents) under anything called 'academic endeavours archive'.**
+**Find previous academic endeavours on the [archive](https://hollyz1jderveld.github.io/blog/contents) under anything called 'academic endeavours archive'.**
 
 ### Currently in philately
 I am currently working on several thematic stamp collections! You will soon be able to see them below:
