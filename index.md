@@ -6,8 +6,6 @@ layout: default
 
 Hi, I'm Holly! I'm an anthropologist (writer, researcher, student) passionate about craft, STS, and information/communication. I'm an avid knitter and philatelist, who enjoys floating around the internet a little.
 
-**I've just started a newsletter on substack, called [midnight letter](https://midnightletter.substack.com/).**
-
 ### Projects & links
 [Index](https://docs.google.com/spreadsheets/d/1y4NmsSBaGFjlWp-sXLSMXYOCZxNIAE_ebl15iW0CsJI/edit?usp=sharing) / [Profile site: https://holly.omg.lol/](https://holly.omg.lol) / [Useful or Interesting resources from around the internet!](https://gl0bsec.github.io/fun_websites.html) (authored by [Shiva](https://gl0bsec.github.io/) and me) / [Reading list](https://hollyz1jderveld.github.io/reading-list/) 
 
