@@ -7,7 +7,7 @@ layout: default
 Hi, I'm Holly! I'm an anthropologist (writer, researcher, student) passionate about craft, STS, and information/communication. I'm an avid knitter and philatelist, who enjoys floating around the internet a little.
 
 ### Projects & links
-[Index](https://docs.google.com/spreadsheets/d/1y4NmsSBaGFjlWp-sXLSMXYOCZxNIAE_ebl15iW0CsJI/edit?usp=sharing) / [Profile site: https://holly.omg.lol/](https://holly.omg.lol) / [Useful or Interesting resources from around the internet!](https://gl0bsec.github.io/fun_websites.html) (authored by [Shiva](https://gl0bsec.github.io/) and me) / [Reading list](https://hollyz1jderveld.github.io/reading-list/) 
+[Blog](https://holly.weblog.lol/) / [Index](https://docs.google.com/spreadsheets/d/1y4NmsSBaGFjlWp-sXLSMXYOCZxNIAE_ebl15iW0CsJI/edit?usp=sharing) / [Profile site: https://holly.omg.lol/](https://holly.omg.lol) / [Useful or Interesting resources from around the internet!](https://gl0bsec.github.io/fun_websites.html) (authored by [Shiva](https://gl0bsec.github.io/) and me) / [Reading list](https://hollyz1jderveld.github.io/reading-list/) 
 
 ### Currently in academic endeavours
 
@@ -58,6 +58,8 @@ I'm on [are.na](https://www.are.na/holly-zijderveld/channels).
 I'm on Bluesky, my username is @hollyzijderveld.bsky.social. I'm also on Mastodon, my user is @holly@social.lol
 
 You can email me @ holly[at]omg[dot]lol. If you want to contact me this is the best way to do so!
+
+I'm a big lover of [ong.lol](https://omg.lol/). On [holly.omg.lol](https://holly.omg.lol/) you can find my profile, my blog, and my now page.
 
 Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). You can use it under the same license, but please credit me!
 
