@@ -12,7 +12,7 @@ Hi, I'm Holly! I'm doing ethnography, experimenting with machine knitting and ot
 ### Currently in academic endeavours
 
 #### Automath Archive
-09-01-2025 This project has really just been chugging along! I've been using a software called Tropy to organise images that I've been taking at the Noord Hollands Archief, where the N. G. de Bruijn's archive is stored. I've been working on translating many of them from Dutch to English. I've also been speaking to some people who worked on the Automath project back in the 1970s and 80s. I'm finding it really fascinating, especially learning about a whole world of mathematics that I, dropping maths as soon as posssible, had no idea about. It's also great linking it to the history of computing stuff that I'm learning for my master's research (and my own fun). Alongside this project, Rodrigo Ochigame and I are also working on some prompt engineering for academic-centred LLMs, to try and develop a way of searching anthropological literature that exists outside of many university library systems. Right now though, that's all just experiments.
+31-03-2025 It feels a lot like we're approaching the final part of this project, which is exciting! I'm not going to say too much, but I'm writing something up and also learning some new skills in html and javascript.
 
 [Archive of this project](https://hollyz1jderveld.github.io/blog/pages/before_automath)
 
