@@ -23,6 +23,10 @@ Hi, I'm Holly! I'm doing ethnography, experimenting with machine knitting and ot
 
 **Find previous academic endeavours on the [archive](https://hollyz1jderveld.github.io/blog/contents) under anything called 'academic endeavours archive'.**
 
+### Currently in creativity
+I'm currently finding a lot of joy with making time for creating and art. I'm finding a lot of fulfilment with felt and thread, knitting (of course), and I'm also trying lino printing!
+
+
 [are.na](https://www.are.na/holly-zijderveld/channels) / [bsky](https://bsky.app/profile/hollyzijderveld.bsky.social/) / [mastodon, through social.lol](https://social.lol/@holly)
 
 You can email me @ holly[at]omg[dot]lol. If you want to contact me this is the best way to do so!
