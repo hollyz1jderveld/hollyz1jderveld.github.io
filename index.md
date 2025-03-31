@@ -17,7 +17,7 @@ Hi, I'm Holly! I'm doing ethnography, experimenting with machine knitting and ot
 [Archive of this project](https://hollyz1jderveld.github.io/blog/pages/before_automath)
 
 #### [Master's research 2024-2025](https://hollyz1jderveld.github.io/knitting-research)
-09-01-2025 I'm now officially in the fieldwork period for this project! I'm spending my time organising and doing interviews with people who modify their knitting machines, and setting up my knitting machine so that I can install the AYAB hardware in it. Of course, fieldwork always comes with fieldnotes, and I'm also spending a lot of time writing stream-of-consciousness, making sure that I get all of my thoughts out. This is my first time doing fieldwork alone so I was worried that I would feel quite lonely, but I'm feeling really good about it so far. In late January I will travel to San Francisco to meet modified machine knitters there. I'm really excited! 
+31-03-2025 Today is my last official day of fieldwork for this project. It's honestly very exciting! I have a couple more people I'd still like to speak to, to cap it all off, but now it's analysis and writing ahead of me! This is all ahead of my thesis submission, which looms (haha) of course, but I will also be presenting some findings from this research at SIEF 2025, at the University of Aberdeen in June. It's exciting! 
 
 [Archive of this project](https://hollyz1jderveld.github.io/blog/pages/before_masters)
 
