@@ -26,6 +26,8 @@ Hi, I'm Holly! Broadly, I'm a researcher looking into knowledge systems and the 
 ### Currently in making
 My life has very suddenly turned into writing, writing, writing on a number of different projects. It's certainly still fulfulling, but I'm hearing my knitting machine call for me!
 
+I have also (for some reason) committed myself to making a vlog. I filmed some things, but with my mountain of writing tasks I'm finding it very difficult to do anything else creative! But maybe that will actually happen, I hope so :) Speaking of being creative on the internet, I plan to give this website a major-ish restructure come the summer, I'm taking a lot of inspriation from some [personal websites that I've been collecting in an are.na board](https://www.are.na/holly-zijderveld/personal-websites-byf_bi5u8m0). I really enjoy the very raw html feel of this site, but I'd like everything to feel just a touch more intentional. I have a pretty good idea of what I'd like to do, I think! Also, I'm planning to buy a domain as my graduation present for myself... I'm very excited.
+
 ### Talk to me
 You can email me at hollyzijderveld [at] fastmail [dot] com.
 
