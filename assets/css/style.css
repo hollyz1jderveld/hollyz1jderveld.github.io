@@ -1,16 +1,16 @@
-/* @import "{{ minima }}"; */
+@import url('https://fonts.googleapis.com/css2?family=Ovo&display=swap')
  
 body {
     color:#f0f0f5;
     background-color: #00004d;
     margin-left: 50px;
     margin-right: 700px;
+    font-family: 'Ovo';
 }
 
 h2 {
     color: #c4dece; 
     text-align: center;
-    font-family: 'Lucida Console';
 }
 
 a:link {
