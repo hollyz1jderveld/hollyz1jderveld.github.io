@@ -1,15 +1,8 @@
-.ovo-regular {
-  font-family: "Ovo", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
 body {
     color:#f0f0f5;
     background-color: #00004d;
     margin-left: 50px;
     margin-right: 700px;
-    font-family: 'Ovo';
 }
 
 h2 {
