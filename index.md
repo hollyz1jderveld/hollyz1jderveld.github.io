@@ -24,5 +24,3 @@ You can email me at hollyzijderveld [at] fastmail [dot] com. You can also find m
 *This site can be dailed on the [Internet Phone Book](https://internetphonebook.net/#dial-a-site). Dial 20!*
 
 Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). 
-
-proven.lol/240a43
