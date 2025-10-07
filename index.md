@@ -24,7 +24,7 @@ And following on from that, on the theme of events, I am at the very beginning o
 This site will soon, hopefully, undergo some pretty heavy reconstruction. I hope to meet you here also on the other side.
 
 ### Talk to me
-You can email me at hollyzijderveld [at] fastmail [dot] com. You can also find me on [are.na](https://www.are.na/holly-zijderveld/index).
+You can email me at hollyzijderveld [at] fastmail [dot] com. Find me on the [Fediverse, at holly@pan.rent](https://pan.rent/@Holly). You can also find me on [are.na](https://www.are.na/holly-zijderveld/index).
 
 *This site can be dailed on the [Internet Phone Book](https://internetphonebook.net/#dial-a-site). Dial 20!*
 
