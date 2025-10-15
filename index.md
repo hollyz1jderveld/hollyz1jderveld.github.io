@@ -19,7 +19,7 @@ I'm a part of the [Self Model Making research group](https://supergijs.com/resea
 ### Next
 I'm currently preparing some interesting things in the direction of publishing again. I've got two ideas I'm working on right now, and I'm really excited to share them when they're ready. In a similar vein, we (as the Self Model Making group) are currently preparing a small public moment to share what we've been exploring over the last six-or-so months. 
 
-And following on from that, on the theme of events, I am at the very beginning of a volunteering position at Internet Archive Europe. Alongside a small team, we will produce community events to share the activities of the archive and the value of open access knowledge! It's something that I'm super excited about. 
+And following on from that, on the theme of events, I am at the very beginning of a volunteering position at [Internet Archive Europe](https://www.internetarchive.eu/). Alongside a small team, we will produce community events to share the activities of the archive and the value of open access knowledge! It's something that I'm super excited about. Also on the horizon, I'm starting a position at Universiteit Utrecht in the [Re/Presenting Europe project](https://re-presentingeurope.nl/), specifically producing the [Unsettling Knowledge podcast](https://soundcloud.com/utrechtuniversity/sets/unsettling-knowledge) and expanding/maintaining the [Culture Capsule project](https://culturecapsule.nl/page/home). I'm beyond excited to start!!
 
 This site will soon, hopefully, undergo some pretty heavy reconstruction. I hope to meet you here also on the other side.
 
