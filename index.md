@@ -4,6 +4,8 @@ layout: default
 
 ## holly zijderveld
 
+★ ☆ ⚝ ✩ ✴ ✳ ☄ ✪ ✫ ✬ ✭ ✭ 🟉 🟊
+
 I'm Holly, this is my personal site. I write, research, and create 🟀; I tend to collections and archives 🟄; I read 🟉; I organise events ✶; and I work on what you can maybe call publishing projects ✴. 
 
 🟀 around themes of living, connectedness, crafting, and computing / 🟄 including my personal collections of stamps and postcards / 🟉 especially translated fiction, and especially Clarice Lispector / ✶ including lectures and workshops / ✴ which you can find on [this are.na page](https://www.are.na/holly-garden/channels)
