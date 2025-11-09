@@ -4,18 +4,16 @@ layout: default
 
 ## holly zijderveld
 
-★ ☆ ⚝ ✩ ✴ ✳ ☄ ✪ ✫ ✬ ✭ ✭ 🟉 🟊
+❥ I'm Holly, this is my personal site. I write, research, and create ✩; I tend to collections and archives ✬; I read ★; I organise events ✶; and I work on what you can maybe call publishing projects ✪. 
 
-I'm Holly, this is my personal site. I write, research, and create 🟀; I tend to collections and archives 🟄; I read 🟉; I organise events ✶; and I work on what you can maybe call publishing projects ✴. 
-
-🟀 around themes of living, connectedness, crafting, and computing / 🟄 including my personal collections of stamps and postcards / 🟉 especially translated fiction, and especially Clarice Lispector / ✶ including lectures and workshops / ✴ which you can find on [this are.na page](https://www.are.na/holly-garden/channels)
+✩ around themes of living, connectedness, crafting, and computing / ✬ including my personal collections of stamps and postcards / ★ especially translated fiction, and especially Clarice Lispector / ✶ including lectures and workshops / ✪ which you can find on [this are.na page](https://www.are.na/holly-garden/channels)
 
 ### Now
-I'm a part of the [Self Model Making research group](https://supergijs.com/researchgroup.html), volunteering at [Internet Archive Europe](https://www.internetarchive.eu/), and working on the [Re/Presenting Europe project](https://re-presentingeurope.nl/). Working on writing poetry and flash fiction again, especially in a capacity that explores newer interests of mine, is feeling really good. I'm also working on establishing a new mode of working for myself outside of the bounds of full time study, which is simultaneously freeing and a little scary. It's an enjoyable process.
+I'm a part of the [Self Model Making research group](https://supergijs.com/researchgroup.html) and volunteering at [Internet Archive Europe](https://www.internetarchive.eu/). I'm working on the [Re/Presenting Europe project](https://re-presentingeurope.nl/), providing digital archiving and data support, alongside podcast editing. 
+
+Working on writing poetry and flash fiction again, especially in a capacity that explores newer interests of mine, is feeling really good. I'm also working on establishing a new mode of working for myself outside of the bounds of full time study, which is simultaneously freeing and a little scary. It's an enjoyable process.
 
 ### Next
-* Please join us at the Internet Archive Europe on 6th November, for a [celebration of World Digital Preservation Day, with a presentation from the Internet Phone Book!](https://luma.com/hheq551u) 
-
 I'm currently preparing some interesting things in the direction of publishing again. I've got two ideas I'm working on right now, and I'm really excited to share them when they're ready. In a similar vein, we (as the Self Model Making group) are currently preparing a small public moment to share what we've been exploring over the last six-or-so months, and we (as the [Fieldnotes Saturday School](https://fieldnotes.site/events/) September cohort) are preparing a digital publication of writing we created over the school. 
 
 This site will soon, hopefully, undergo some pretty heavy reconstruction. I hope to meet you here also on the other side.
