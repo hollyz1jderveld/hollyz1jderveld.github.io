@@ -4,9 +4,7 @@ layout: default
 
 ## holly zijderveld
 
-❥ I'm Holly, this is my personal site. I write, research, and create ✩; I tend to collections and archives ✬; I read ★; I organise events ✶; and I work on what you can maybe call publishing projects ✪. 
-
-✩ around themes of living, connectedness, crafting, and computing / ✬ including my personal collections of stamps and postcards / ★ especially translated fiction, and especially Clarice Lispector / ✶ including lectures and workshops / ✪ which you can find on [this are.na page](https://www.are.na/holly-garden/channels)
+❥ I'm Holly, this is my personal site. ✩ I write, research, and create (around themes of living, connectedness, crafting, and computing); ✬ I tend to collections and archives (inluding the [Culture Capsule](https://culturecapsule.nl and my personal collection of stamps, fuke-in and postcards); ★ I read (especially translated fiction, and especially Clarice Lispector); ✶ I organise events (including lectures and workshops); ✪ and I work on what you can maybe call publishing projects (which you can find on [this are.na page](https://www.are.na/holly-garden/channels)). 
 
 ### Now
 I'm a part of the [Self Model Making research group](https://supergijs.com/researchgroup.html) and volunteering at [Internet Archive Europe](https://www.internetarchive.eu/). I'm working on the [Re/Presenting Europe project](https://re-presentingeurope.nl/), providing digital archiving and data support, alongside podcast editing. 
