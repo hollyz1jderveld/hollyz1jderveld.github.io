@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## holly garden
-Hi, I'm Holly, this is my web garden. Although, on second thought, it's very small, so maybe it's more like an allotment or a balcony or a patio.
+I'm Holly Zijderveld, this is my web garden. Although, on second thought, it's very small, so maybe it's more like an allotment or a balcony or a patio.
 
 Most generally, I am working around themes of connection, collection, and computing, in the broadest ways you can understand these terms. I interact with these ideas in my practice through research, writing (poetry, fiction, & essays), illustration, textile, publishing & editing, and event & community organising. These ideas also play into my work in technical research support. I  read Clarice Lispector, I collect stamps/postcards/fuke-in, I cook vegetarian food, I make clothes for myself.
 
