@@ -10,7 +10,7 @@ Most generally, I am working around themes of connection, collection, and comput
 ### You can see what I've been up to in my [log](https://holly.garden/log).
 **Five most recent entries:**
 
-2025 ✩ Technologist, Re/Presenting Europe
+2025 ✩ Technical research support, Re/Presenting Europe
 
 2025 ✬ Event coordination, Internet Archive Europe
 
