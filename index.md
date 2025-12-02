@@ -10,15 +10,15 @@ Most generally, I am working around themes of connection, collection, and comput
 ### You can see what I've been up to in my [log](https://holly.garden/log).
 **Five most recent entries:**
 
+2025 ★ Collaborative editing for Plenty is much, I'm managing
+
+2025 ✪ Destroying This Means Tableau, Laure Prouvost p.18
+
 2025 ✩ Technical research support, Re/Presenting Europe
 
 2025 ✬ Event coordination, Internet Archive Europe
 
 2025 ★ Calling card project
-
-2025 ✶ Fieldnotes Saturday School
-
-2025 ✶ Gruaduation MSc Global Ethnography, Leiden University
 
 ### Talk to me
 You can email me at hollyzijderveld [at] fastmail [dot] com. Find me on the [Fediverse, at holly@pan.rent](https://pan.rent/@Holly). You can also find me on [are.na](https://www.are.na/holly-zijderveld/index). I love to receive paper mail, if we know eachother then please ask for my address.
