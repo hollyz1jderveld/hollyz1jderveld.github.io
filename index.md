@@ -8,6 +8,14 @@ I'm Holly Zijderveld, this is my web garden. Although, on second thought, it's v
 Most generally, I am working around themes of connection, collection, and computing, in the broadest ways you can understand these terms. I interact with these ideas in my practice through research, writing (poetry, fiction, & essays), illustration, textile, publishing & editing, and event & community organising. These ideas also play into my work in technical research support. I  read Clarice Lispector, I collect stamps/postcards/fuke-in, I cook vegetarian food, I make clothes for myself.
 
 ### You can see what I've been up to in my [log](https://holly.garden/log).
+**Upcoming events I'm a part of:**
+
+11-12-2025  [Symposium Universal Language I: Human-Computer Interaction](https://www.stroom.nl/stroom-algemeen/activiteiten/save-the-date-universal-language-i-human-computer-interaction) -- I will be here documenting ideas and summarising at points throughout the symposium! Also on the next day, linked below.
+
+12-12-2025  [Symposium Universal Language I: Human-Computer Interaction](https://www.stroom.nl/stroom-algemeen/activiteiten/save-the-date-universal-language-i-human-computer-interaction)
+
+23-01-2026  [Internet Archive Europe: Public Domain Movie Night](https://luma.com/bmdhs6n2)
+
 **Five most recent entries:**
 
 2025  ★  [Collaborative editing for *Plenty is much, I'm managing*](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf)
