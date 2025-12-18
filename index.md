@@ -8,15 +8,15 @@ I'm Holly Zijderveld, this is my web garden. Although, on second thought, it's v
 Most generally, I am working around themes of connection, collection, and computing, in the broadest ways you can understand these terms. I interact with these ideas through research, writing (poetry, fiction, & essays), illustration, textile, publishing & editing, and event & community organising. These ideas also play into my work in technical research support. 
 
 ### You can see what I've been up to in my [log](https://holly.garden/log).
-**Upcoming events I'm a part of:**
-
-11-12-2025  [Symposium Universal Language I: Human-Computer Interaction](https://www.stroom.nl/stroom-algemeen/activiteiten/save-the-date-universal-language-i-human-computer-interaction) -- I will be here documenting ideas and summarising at points throughout the symposium! Also on the next day, linked below.
-
-12-12-2025  [Symposium Universal Language I: Human-Computer Interaction](https://www.stroom.nl/stroom-algemeen/activiteiten/save-the-date-universal-language-i-human-computer-interaction)
+**Upcoming events I'm a part of/assisting to organise:**
 
 23-01-2026  [Internet Archive Europe: Public Domain Movie Night](https://luma.com/bmdhs6n2)
 
+09-02-2026  [Internet Archive Europe: Public Data Cultures book talk by Jonathan Grey](https://luma.com/5au5lku7?utm_source=embed)
+
 **Five most recent entries:**
+
+2025  ⁂  [Poetic summarisation and node-taking at *Symposium Universal Language I: Human-Computer Interaction*](https://www.stroom.nl/stroom-algemeen/activiteiten/save-the-date-universal-language-i-human-computer-interaction)
 
 2025  ★  [Collaborative editing for *Plenty is much, I'm managing*](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf)
 
@@ -25,8 +25,6 @@ Most generally, I am working around themes of connection, collection, and comput
 2025  ✩  Technical research support, Re/Presenting Europe     
 
 2025  ✬  Event coordination, Internet Archive Europe      
-
-2025  ★  [Calling card project](https://www.are.na/holly-zijderveld/calling-card-isitobdbvje)
 
 ### Talk to me
 You can email me at hollyzijderveld [at] fastmail [dot] com. Find me on the [Fediverse, at holly@pan.rent](https://pan.rent/@Holly). You can also find me on [are.na](https://www.are.na/holly-zijderveld/index). I love to receive paper mail, if we know eachother then please ask for my address.
