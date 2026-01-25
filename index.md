@@ -10,11 +10,9 @@ Most generally, I am working around themes of connection, collection, and comput
 ### You can see what I've been up to in my [log](https://holly.garden/log).
 **Upcoming events I'm a part of/assisting to organise:**
 
-23-01-2026  [Internet Archive Europe: Public Domain Movie Night](https://luma.com/bmdhs6n2)
-
 31-01-2026  [I will be presenting some of my current personal publishing work at the XPUB Extra Terrestrial Publishing Fair!](https://hub.xpub.nl/cerealbox/xtraterrestrial/?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
 
-09-02-2026  [Internet Archive Europe: Public Data Cultures book talk by Jonathan Grey](https://luma.com/5au5lku7?utm_source=embed)
+I am always helping with events at the Internet Archive Europe. [You can see what's upcoming here.](https://luma.com/InternetArchiveEurope?k=c)
 
 **Five most recent entries:**
 
