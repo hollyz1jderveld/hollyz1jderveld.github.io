@@ -41,3 +41,5 @@ You can email me at hollyzijderveld [at] fastmail [dot] com. Find me on the [Fed
 Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). 
 
 *leaving behind the darkness, I'm trying to wake up earlier in the morning, trying to somewhat watch the sun rise. shaking off the cobwebs, the frost keeps biting, a light blue feels most appropriate.*
+
+*as of January 30, 2025, this website is two years, one month and twenty seven days old.*
