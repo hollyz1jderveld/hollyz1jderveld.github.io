@@ -8,7 +8,7 @@ I'm Holly Zijderveld, this is my web garden. Although, on second thought, it's v
 Most generally, I am working around themes of connection, collection, and computing, in the broadest ways you can understand these terms. I interact with these ideas through writing (poetry, fiction, & essays), publishing & editing, research, event & community organising, illustration, research, and textile. These ideas also play into my work in technical research support. 
 
 ### You can see what I've been up to in my [log](https://holly.garden/log).
-***Garden opening hours:**
+***Garden opening hours:***
 
 31-01-2026  [I will be presenting some of my current personal publishing work at the XPUB Extra Terrestrial Publishing Fair!](https://hub.xpub.nl/cerealbox/xtraterrestrial/?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
 
@@ -26,7 +26,7 @@ I am always helping with events at the Internet Archive Europe. [You can see wha
 
 2025  ✬  Event coordination, Internet Archive Europe      
 
-### Holly Garden Catalogue
+### holly garden catalogue
 *holly garden* is not only this little place on the internet, it is also my *publishing garden* Standing outside of the house, organised but unruly. Things happen here together, let’s have a barbecue, let’s try to sunbathe under the apple tree. Listed below are the projects of holly garden. For now most of these are are.na links, but better documentation is coming!
 
 001  [Holly Library](https://www.are.na/holly-zijderveld/holly-library)
