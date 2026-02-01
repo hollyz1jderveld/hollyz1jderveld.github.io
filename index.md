@@ -16,15 +16,15 @@ I am always helping with events at the Internet Archive Europe. [You can see wha
 
 **Five most recent entries:**
 
+2026  ★  [Extra Terrestrial Zine Fair, hosted by XPUB at Dokhuis Rotterdam](https://hub.xpub.nl/cerealbox/xtraterrestrial/?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
+
 2025  ⁂  [Poetic summarisation and node-taking at *Symposium Universal Language I: Human-Computer Interaction*](https://www.stroom.nl/stroom-algemeen/activiteiten/save-the-date-universal-language-i-human-computer-interaction)
 
 2025  ★  [Collaborative editing for *Plenty is much, I'm managing*](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf)
 
 2025  ✪  [Destroying This Means Tableau, Laure Prouvost p.18](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf)
 
-2025  ✩  Technical research support, Re/Presenting Europe     
-
-2025  ✬  Event coordination, Internet Archive Europe      
+2025  ✩  Technical research support, Re/Presenting Europe ~
 
 ### holly garden catalogue
 *holly garden* is not only this little place on the internet, it is also my *publishing garden* Standing outside of the house, organised but unruly. Things happen here together, let’s have a barbecue, let’s try to sunbathe under the apple tree. Listed below are the projects of holly garden. For now most of these are are.na links, but better documentation is coming!
@@ -42,4 +42,4 @@ Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creat
 
 *leaving behind the darkness, I'm trying to wake up earlier in the morning, trying to somewhat watch the sun rise. shaking off the cobwebs, the frost keeps biting, a light blue feels most appropriate.*
 
-*as of January 30, 2025, this website is two years, one month and twenty seven days old.*
+*as of 1 February, 2026, this website is two years, one month and twenty nine days old.*
