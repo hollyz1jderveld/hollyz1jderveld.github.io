@@ -42,4 +42,4 @@ Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creat
 
 *leaving behind the darkness, I'm trying to wake up earlier in the morning, trying to somewhat watch the sun rise. shaking off the cobwebs, the frost keeps biting, a light blue feels most appropriate.*
 
-*as of 1 February, 2026, this website is two years, one month and twenty nine days old.*
+*as of 16 February, 2026, this website is two years, two months and thirteen days old.*
