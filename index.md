@@ -10,7 +10,7 @@ Most generally, I am working around themes of connection, collection, and comput
 ### You can see what I've been up to in my [log](https://holly.garden/log).
 ***Garden opening hours:***
 
-31-01-2026  [I will be presenting some of my current personal publishing work at the XPUB Extra Terrestrial Publishing Fair!](https://hub.xpub.nl/cerealbox/xtraterrestrial/?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
+*The garden has no upcoming opening hours (aka I have no concrete events planned).*
 
 I am always helping with events at the Internet Archive Europe. [You can see what's upcoming here.](https://luma.com/InternetArchiveEurope?k=c)
 
