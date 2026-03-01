@@ -38,8 +38,10 @@ You can email me at hollyzijderveld [at] fastmail [dot] com. Find me on the [Fed
 
 *This site can be dailed on the [Internet Phone Book](https://internetphonebook.net/#dial-a-site). Dial 20!*
 
+### Colophon
+
 Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). 
 
-*leaving behind the darkness, I'm trying to wake up earlier in the morning, trying to somewhat watch the sun rise. shaking off the cobwebs, the frost keeps biting, a light blue feels most appropriate.*
+*at least in the netherlands, spring has certainly arrived. i enjoy sitting by the water whenever i can, to eat, to talk, to read. there are many beautiful things about spring, but none as beautiful as the sun. this page is yellow in its honour.*
 
-*as of 16 February, 2026, this website is two years, two months and thirteen days old.*
+*as of 1 March, 2026, this website is two years, two months and twenty-seven days old.*
