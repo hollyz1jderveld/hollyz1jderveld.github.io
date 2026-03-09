@@ -42,6 +42,8 @@ You can email me at hollyzijderveld [at] fastmail [dot] com. Find me on the [Fed
 
 Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). 
 
+<- [previous](https://hotlinewebring.club/holly/previous) hotline webring [next](https://hotlinewebring.club/holly/next) ->
+
 *at least in the netherlands, spring has certainly arrived. i enjoy sitting by the water whenever i can, to eat, to talk, to read. there are many beautiful things about spring, but none as beautiful as the sun. this page is yellow in its honour.*
 
 *as of 1 March, 2026, this website is two years, two months and twenty-seven days old.*
