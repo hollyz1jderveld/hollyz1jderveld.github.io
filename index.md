@@ -36,9 +36,9 @@ I am always helping with events at the Internet Archive Europe. [You can see wha
 ### Talk to me
 You can email me at hollyzijderveld [at] fastmail [dot] com. Find me on the [Fediverse, at holly@pan.rent](https://pan.rent/@Holly). You can also find me on [are.na](https://www.are.na/holly-zijderveld/index). I love to receive paper mail, if we know each other then please ask for my address.
 
-*This site can be dailed on the [Internet Phone Book](https://internetphonebook.net/#dial-a-site). Dial 20!*
-
 ### Colophon
+
+*This site can be dailed on the [Internet Phone Book](https://internetphonebook.net/#dial-a-site). Dial 20!*
 
 Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). 
 
