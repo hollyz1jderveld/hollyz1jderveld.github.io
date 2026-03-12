@@ -5,7 +5,7 @@ layout: default
 ## holly garden
 I'm Holly Zijderveld, this is my web garden. Although, on second thought, it's very small, so maybe it's more like an allotment or a balcony or a patio.
 
-Most generally, I am working around themes of connection, collection, and computing, in the broadest ways you can understand these terms. I interact with these ideas through writing (poetry, fiction, & essays), publishing & editing, research, event & community organising, illustration, research, and textile. These ideas also play into my work in technical research support. 
+I tend to work around themes of connection, collection, and computing, in the broadest ways you can understand these terms. I interact with these ideas through poetry, publishing & editing, research, and occasionally textile. These ideas also play into my work in technical research support. 
 
 ### You can see what I've been up to in my [log](https://holly.garden/log).
 ***Garden opening hours:***
@@ -46,4 +46,4 @@ Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creat
 
 *at least in the netherlands, spring has certainly arrived. i enjoy sitting by the water whenever i can, to eat, to talk, to read. there are many beautiful things about spring, but none as beautiful as the sun. this page is yellow in its honour.*
 
-*as of 1 March, 2026, this website is two years, two months and twenty-seven days old.*
+*as of 12 March, 2026, this website is two years, three months and ten days old.*
