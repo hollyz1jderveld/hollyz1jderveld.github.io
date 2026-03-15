@@ -11,7 +11,7 @@ I make poetry on themes such as connection, collection, and computing, in the br
 
 These themes also play into my work in technical research support, where I manage two community archives ([Culture Capsule](https://culturecapsule.nl) and an archive for sports in Curaçao, coming soon) and produce podcasts for the [Re/Presenting Europe project](https://re-presentingeurope.nl/). 
 
-In the past, I have studied anthropology and ethnography, and did research around [open source machine knitting practice](https://www.are.na/block/41968190). Currently, I am reading a lot of Clarice Lispector and thinking about [self-models](https://supergijs.com/researchgroup.html). In the future, I hope to learn more about radio, dance, and the body.
+In the past, I have studied anthropology and ethnography, and did research around [open source machine knitting practice](https://www.are.na/block/41968190). Currently, I am reading a lot of [Clarice Lispector](https://www.are.na/holly-zijderveld/clarice-lispector-w0v1gdvrpcc) and thinking about [self-models](https://supergijs.com/researchgroup.html). In the future, I hope to learn more about radio, dance, and the body.
 
 ### You can see what I've been up to in my [log](https://holly.garden/log).
 ***Garden opening hours:***
