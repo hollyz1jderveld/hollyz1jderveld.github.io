@@ -5,7 +5,7 @@ layout: default
 ## holly garden
 Welcome to this web garden. Although, on second thought, it is very small, so maybe it's more like an allotment or a balcony or a patio.
 
-**Holly Zijderveld** is a *cyber.print.poet* living-and-working-together in the place typically referred to as 'The Netherlands', as well as on this folded up reality that we call 'the internet', which is living in an incredible but definite number of places. She/they are in fact, me, hey° ᡣ𐭩 . ° .! 
+**Holly Zijderveld** is a cyber.print.poet living-and-working-together in the place typically referred to as 'The Netherlands', as well as on this folded up reality that we call 'the internet', which is living in an incredible but definite number of places. She/they are in fact, me, hey° ᡣ𐭩 . ° .! 
 
 I make poetry on themes such as connection, collection, and computing, in the broadest ways you can understand these terms. This poetry takes the form of writing (usually poems (duh) and essays), publishing, editing, and sometimes textile. I am currently writing poems about our relationships with computers and each other, trying to get a [magazine project](https://edgesmag.net) off the ground, and making other zines and publications for *holly garden*. 
 
@@ -16,7 +16,7 @@ In the past, I have studied anthropology and ethnography, and did research aroun
 ### You can see what I've been up to in my [log](https://holly.garden/log).
 ***Garden opening hours:***
 
-*The garden has no upcoming opening hours (aka I have no concrete events planned).*
+March 19-21 I am currently at the European Hip Hop Studies Network conference in Groningen, for my work with the culture capsule! I'm finallyyy getting to digitise people's hip hop-related material histories! It's such a pleasure to be here, hip hop people are so much fun.
 
 **Five most recent entries:**
 
