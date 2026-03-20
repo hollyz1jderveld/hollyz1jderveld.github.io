@@ -20,15 +20,15 @@ March 19-21 I am currently at the European Hip Hop Studies Network conference in
 
 **Five most recent entries:**
 
+2026  ✪  [Technological Craft, in *almanac.sh*](https://publications.servus.at/2026-almanac.sh/almanac.html#third-moon)
+
 2026  ★  [Extra Terrestrial Zine Fair, hosted by XPUB at Dokhuis Rotterdam](https://hub.xpub.nl/cerealbox/xtraterrestrial/?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
 
 2025  ⁂  [Poetic summarisation and node-taking at *Symposium Universal Language I: Human-Computer Interaction*](https://www.stroom.nl/stroom-algemeen/activiteiten/save-the-date-universal-language-i-human-computer-interaction)
 
 2025  ★  [Collaborative editing for *Plenty is much, I'm managing*](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf)
 
-2025  ✪  [Destroying This Means Tableau, Laure Prouvost p.18](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf)
-
-2025  ✩  Technical research support, Re/Presenting Europe ~
+2025  ✪  [Destroying This Means Tableau, Laure Prouvost p.18, in *Plenty is much, I'm managing* published by Fieldnotes](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf)
 
 ### holly garden catalogue
 *holly garden* is not only this little place on the internet, it is also my *publishing garden*. Standing outside of the house, organised but unruly. Things happen here together, let’s have a barbecue, let’s try to sunbathe under the apple tree. Listed below are the projects of holly garden. For now most of these are are.na links, but better documentation is coming!
