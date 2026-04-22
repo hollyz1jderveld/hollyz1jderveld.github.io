@@ -53,7 +53,7 @@ Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creat
 
 <- [previous](https://hotlinewebring.club/holly/previous) hotline webring [next](https://hotlinewebring.club/holly/next) ->
 
-*some friends with websites (in no particular order)* (✩)[https://stephanelambion.com/] (✬)[https://tommi.space/] (★)[https://aslinurmahmutoglu.com/] (✶)[https://www.supergijs.com/] (✪)[https://savva.work/]
+*some friends with websites (in no particular order)* [✩](https://stephanelambion.com/) [✬](https://tommi.space/) [★](https://aslinurmahmutoglu.com/) [✶](https://www.supergijs.com/) [✪](https://savva.work/)
 
 *recently, in light of the good weather, i've been going on runs, the longest i've ever gone on. the blossoms motivate me, they remind me that growth is possible, but growth takes energy. the page is, then, of course, pink.*
 
