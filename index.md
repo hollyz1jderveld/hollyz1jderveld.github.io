@@ -39,7 +39,7 @@ There are currently no opening times scheduled.
 
 004  [Edges Magazine Issue 0 (currently in reading period)](https://edgesmag.net)
 
-003  [Edges Magazine (idea pamphlet)](https://www.are.na/holly-zijderveld/edges-magazine)
+003  [Edges Magazine (idea pamphlet)](https://www.are.na/block/45828251)
 
 002  [Calling Card](https://www.are.na/holly-zijderveld/calling-card-isitobdbvje)
 
