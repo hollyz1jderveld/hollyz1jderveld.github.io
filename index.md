@@ -37,7 +37,7 @@ There are currently no opening times scheduled.
 
 005  [Ink Stamping](https://www.are.na/holly-garden/ink-stamping)
 
-004  [Edges Magazine Issue 0 (currently in open call)](https://edgesmag.net)
+004  [Edges Magazine Issue 0 (currently in reading period)](https://edgesmag.net)
 
 003  [Edges Magazine (idea pamphlet)](https://www.are.na/holly-zijderveld/edges-magazine)
 
