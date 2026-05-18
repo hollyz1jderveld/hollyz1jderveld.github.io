@@ -7,16 +7,16 @@ Welcome to this web garden. Although, on second thought, it is very small, so ma
 
 **Holly Zijderveld** is a poet living-and-working-together in the place typically referred to as 'The Netherlands', as well as on this folded up reality that we call 'the internet', which is living in an incredible but definite number of places. She/they are in fact, me, hey° ᡣ𐭩 . ° .! 
 
-I make poetry on themes such as connection, collection, and computing, in the broadest ways you can understand these terms. This poetry takes the form of writing (usually poems but sometimes prose), publishing, editing, ink stamping, and sometimes textile. I am currently writing poems about our relationships with computers and each other, creating Issue 0 of [Edges](https://edgesmag.net), and making other zines and publications for *holly garden* (see: holly garden catalogue, below). 
+I make poetry on themes such as connection, collection, and computing, in the broadest ways you can understand these terms. This poetry takes the form of writing (hopefully poems, but I commit myself to writing prose more than I would like), publishing, editing, ink stamping, and sometimes textile. I am currently writing poems about our relationships with computers and each other, creating Issue 0 of [Edges](https://edgesmag.net), writing a [research paper](https://www.are.na/holly-zijderveld/knitted-cyberfeminisms), and making other zines and publications for *holly garden* (see: holly garden catalogue, below). 
 
 These themes also play into my work in technical research support, where I manage two community archives ([Culture Capsule](https://culturecapsule.nl) and an archive for sports in Curaçao, coming soon) and produce podcasts for the [Re/Presenting Europe project](https://re-presentingeurope.nl/). 
 
-In the past, I have studied anthropology and ethnography, and did research around [open source machine knitting practice](https://www.are.na/block/41968190). Currently, I am reading a lot of [Clarice Lispector](https://www.are.na/holly-zijderveld/clarice-lispector-w0v1gdvrpcc) and thinking about [self-models](https://supergijs.com/researchgroup.html). In the future, I hope to learn more about synthesis and radio.
+In the past, I have studied anthropology and ethnography, and conducted research around [open source machine knitting practice](https://www.are.na/block/41968190). Currently, I am reading a lot of [Clarice Lispector](https://www.are.na/holly-zijderveld/clarice-lispector-w0v1gdvrpcc) and thinking about [self-models](https://supergijs.com/researchgroup.html). In the future, I hope to learn more about synthesis and radio.
 
 ### you can see what I've been up to in my [log](https://holly.garden/log).
 ***Garden opening hours:***
 
-There are currently no opening times scheduled.
+29-05 - 02-06 - I will be volunteering at Leiden Shorts, as I have been every-other-year since I moved to Leiden. It will likely be my last time, and I look forward to saying goodbye to this lovely little film festival. If you're around Leiden on these days, I would certainly reccomend coming by :D
 
 **Five most recent entries:**
 
@@ -33,7 +33,7 @@ There are currently no opening times scheduled.
 [more](https://holly.garden/log)
 
 ### holly garden catalogue
-*holly garden* is not only this little place on the internet, it is also my *publishing garden*. Standing outside of the house, organised but unruly. Things happen here together, let’s have a barbecue, let’s try to sunbathe under the apple tree. Listed below are the projects of holly garden. For now most of these are are.na links, but better documentation is coming!
+*holly garden* is not only this little place on the internet, it is also my *publishing garden* (which, thinking about it, also lives in this little place on the internet...). It is standing outside of the house, organised but unruly. Things happen here together, let’s have a barbecue, let’s try to sunbathe next to the apple tree. Listed below are the projects of holly garden. For now most of these are are.na links, but better documentation is coming!
 
 005  [Ink Stamping](https://www.are.na/holly-garden/ink-stamping)
 
@@ -60,4 +60,4 @@ Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creat
 
 *there was a heatwave here in the netherlands, and since i've moved here the warm weather can only ever mean time by the water. did you know, when i made this site, the background used to be an image of the texture of water?*
 
-*as of 4 May, 2026, this website is two years, five months old.*
+*as of 18 May, 2026, this website is two years, five months, and twelve days old.*
