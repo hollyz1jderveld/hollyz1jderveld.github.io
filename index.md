@@ -16,6 +16,8 @@ In the past, I have studied anthropology and ethnography, and conducted research
 ### you can see what I've been up to in my [log](https://holly.garden/log).
 ***Garden opening hours:***
 
+22-05 - [Sevgi Tan](http://sevgi.gromits.space/) will be hosting the workshop [Resurrecting Networks](https://luma.com/InternetArchiveEurope?e=evt-6qcCEGSCfvspqxv) at the [Internet Archive Europe](https://www.internetarchive.eu/)! I will be (volunteering) there in my most appropriate summer-day funeral-outfit...
+
 29-05 - 02-06 - I will be volunteering at Leiden Shorts, as I have been every-other-year since I moved to Leiden. It will likely be my last time, and I look forward to saying goodbye to this lovely little film festival. If you're around Leiden on these days, I would certainly reccomend coming by :D
 
 **Five most recent entries:**
@@ -54,9 +56,7 @@ You can email me at hollyzijderveld [at] fastmail [dot] com. Find me on the [Fed
 
 Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). 
 
-<- [previous](https://hotlinewebring.club/holly/previous) hotline webring [next](https://hotlinewebring.club/holly/next) ->
-
-[✩](https://stephanelambion.com/) [✬](https://tommi.space/) [★](https://aslinurmahmutoglu.com/) [✶](https://www.supergijs.com/) [✪](https://savva.work/) 
+<- [previous](https://hotlinewebring.club/holly/previous) hotline webring [next](https://hotlinewebring.club/holly/next) -> 
 
 *there was a heatwave here in the netherlands, and since i've moved here the warm weather can only ever mean time by the water. did you know, when i made this site, the background used to be an image of the texture of water?*
 
