@@ -22,13 +22,13 @@ In the past, I have studied anthropology and ethnography, and conducted research
 
 2026  ✪  [Technological Craft, in *almanac.sh*](https://publications.servus.at/2026-almanac.sh/almanac.html#third-moon)
 
+2026  ✩  Podcast production and editing, [Unsettling Knowledge](https://soundcloud.com/utrechtuniversity/sets/unsettling-knowledge) (since episode 28), as Technical Support Officer for [Re/Presenting Europe](https://re-presentingeurope.nl) ~
+
+2026  ✩  Digital archive management, Sport Historia, as Technical Support Officer for [Re/Presenting Europe](https://re-presentingeurope.nl) ~
+
 2026  ★  [Extra Terrestrial Zine Fair, hosted by XPUB at Dokhuis Rotterdam](https://hub.xpub.nl/cerealbox/xtraterrestrial/?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
 
 2025  ⁂  [Poetic summarisation and node-taking at *Symposium Universal Language I: Human-Computer Interaction*](https://www.stroom.nl/stroom-algemeen/activiteiten/save-the-date-universal-language-i-human-computer-interaction)
-
-2025  ★  [Collaborative editing for *Plenty is much, I'm managing*](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf)
-
-2025  ✪  [Destroying This Means Tableau, Laure Prouvost p.18, in *Plenty is much, I'm managing* published by Fieldnotes](https://files.cargocollective.com/c1157868/Plenty-is-much-Fieldnotes-Saturday-School-2025.pdf)
 
 [more](https://holly.garden/log)
 
