@@ -20,6 +20,8 @@ In the past, I have studied anthropology and ethnography, and conducted research
 
 **Five most recent entries:**
 
+2026  ✪  [A Eulogy for Mii](https://tommi.space/mii-eulogy/), written with [Tommi](https://tommi.space) for [Sevgi's](https://sevgi.gromits.space) Resurrecting Networks workshop at the [Internet Archive Europe](https://internetarchive.eu)
+
 2026  ✪  [Technological Craft, in *almanac.sh*](https://publications.servus.at/2026-almanac.sh/almanac.html#third-moon)
 
 2026  ✩  Podcast production and editing, [Unsettling Knowledge](https://soundcloud.com/utrechtuniversity/sets/unsettling-knowledge) (since episode 28), as Technical Support Officer for [Re/Presenting Europe](https://re-presentingeurope.nl) ~
@@ -27,8 +29,6 @@ In the past, I have studied anthropology and ethnography, and conducted research
 2026  ✩  Digital archive management, Sport Historia, as Technical Support Officer for [Re/Presenting Europe](https://re-presentingeurope.nl) ~
 
 2026  ★  [Extra Terrestrial Zine Fair, hosted by XPUB at Dokhuis Rotterdam](https://hub.xpub.nl/cerealbox/xtraterrestrial/?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
-
-2025  ⁂  [Poetic summarisation and node-taking at *Symposium Universal Language I: Human-Computer Interaction*](https://www.stroom.nl/stroom-algemeen/activiteiten/save-the-date-universal-language-i-human-computer-interaction)
 
 [more](https://holly.garden/log)
 
