@@ -16,7 +16,7 @@ In the past, I have studied anthropology and ethnography, and conducted research
 ### you can see what I've been up to in my [log](https://holly.garden/log).
 ***Garden opening hours:***
 
-*There are currently no opening hours planned.*
+04-07-2026  21:00   tune in to the live *cyberia radio* and experience [cyberia](https://lain.wiki/wiki/Cyberia) in 2026. It's playing as part of [FanonRadio](https://fanon.radio/)'s opening marathon celebration!! 
 
 **Five most recent entries:**
 
