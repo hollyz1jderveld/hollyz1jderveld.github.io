@@ -3,20 +3,20 @@ layout: default
 ---
 
 ## holly garden
-Welcome to this web garden. Although, on second thought, it is very small, so maybe it's more like an allotment or a balcony or a patio.
+Welcome to this web garden. Although, on second thought, it is very small, so maybe it's more like an allotment or a patio or a balcony suspended by a tight net.
 
-**Holly Zijderveld** is a poet living-and-working-together in the place typically referred to as 'The Netherlands', as well as on this folded up reality that we call 'the internet', which is living in an incredible but definite number of places. She/they are in fact, me, hey° ᡣ𐭩 . ° .! 
+**Holly Zijderveld** is living-and-working-together in the place typically referred to as 'The Netherlands', as well as on this folded up reality that we call 'the internet', which is living in an incredible but definite number of places. She/they are in fact, me, hey° ᡣ𐭩 . ° .! 
 
-I make poetry on themes such as connection, collection, and computing, in the broadest ways you can understand these terms. This poetry takes the form of writing (hopefully poems, but I commit myself to writing prose more than I would like), publishing, editing, ink stamping, and sometimes textile. I am currently writing poems about our relationships with computers and each other, creating Issue 0 of [Edges](https://edgesmag.net), and making other zines and publications for *holly garden* (see: holly garden catalogue, below). 
+I am usually working on themes such as connection, collection, and computing, in the broadest ways you can understand these terms. I am writing poems, publishing, editing, ink stamping, and sometimes working with textile. I am currently writing poems about our relationships with computers and each other, creating Issue 0 of [Edges](https://edgesmag.net), and making other zines and publications for *holly garden* (see: holly garden catalogue, below). 
 
-These themes also play into my work in technical research support, where I manage two community archives ([Culture Capsule](https://culturecapsule.nl) and an archive for sports in Curaçao, coming soon) and produce podcasts for the [Re/Presenting Europe project](https://re-presentingeurope.nl/). 
+These themes also play into my work as a humanities research technician, where I manage two community archives ([Culture Capsule](https://culturecapsule.nl) and an archive for sports in Curaçao, coming soon) and produce podcasts for the [Re/Presenting Europe project](https://re-presentingeurope.nl/). 
 
 In the past, I have studied anthropology and ethnography, and conducted research around [open source machine knitting practice](https://www.are.na/block/41968190). Currently, I am reading a lot of [Clarice Lispector](https://www.are.na/holly-zijderveld/clarice-lispector-w0v1gdvrpcc) and thinking about [self-models](https://supergijs.com/researchgroup.html). In the future, I hope to learn more about synthesis and radio.
 
 ### you can see what I've been up to in my [log](https://holly.garden/log).
 ***Garden opening hours:***
 
-04-07-2026  21:00   tune in to the live *cyberia radio* and experience [cyberia](https://lain.wiki/wiki/Cyberia) in 2026. It's playing as part of [FanonRadio](https://fanon.radio/)'s opening marathon celebration!! 
+*there is currently nothing concrete planned.*
 
 **Five most recent entries:**
 
