@@ -56,6 +56,6 @@ Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creat
 
 <- [previous](https://hotlinewebring.club/holly/previous) hotline webring [next](https://hotlinewebring.club/holly/next) -> 
 
-*do u feel the [<energy>](https://2026.html.energy/)*
+*do u feel the [< energy >](https://2026.html.energy/)*
 
 *as of 9 August, 2026, this website is two years, eight months, and four days old.*
