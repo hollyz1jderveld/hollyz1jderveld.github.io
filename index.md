@@ -16,7 +16,7 @@ In the past, I have studied anthropology and ethnography, and conducted research
 ### you can see what I've been up to in my [log](https://holly.garden/log).
 ***Garden opening hours:***
 
-*there is currently nothing concrete planned.*
+*everything is mulch, the seeds are planted, but there is currently nothing concrete planned.*
 
 **Five most recent entries:**
 
