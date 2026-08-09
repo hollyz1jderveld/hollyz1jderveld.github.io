@@ -37,7 +37,7 @@ In the past, I have studied anthropology and ethnography, and conducted research
 
 005  [Ink Stamping](https://www.are.na/holly-garden/ink-stamping)
 
-004  [Edges Magazine Issue 0 (currently in reading period)](https://edgesmag.net)
+004  [Edges Magazine Issue 0 (currently in formatting)](https://edgesmag.net)
 
 003  [Edges Magazine (idea pamphlet)](https://www.are.na/block/45828251)
 
