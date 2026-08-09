@@ -5,7 +5,7 @@ layout: default
 ## holly garden
 Welcome to this web garden. Although, on second thought, it *is* very small, so maybe it's more like an allotment or a patio or a balcony suspended by a tight net.
 
-**Holly Zijderveld** is living-and-working-together in the place typically referred to as 'The Netherlands', as well as on this folded up reality that we call 'the internet', which is living in an incredible but definite number of places. She/they are in fact, me, hey° ᡣ𐭩 . ° .! 
+**Holly Zijderveld** is living-and-working-together in the place typically referred to as 'The Netherlands', as well as on this folded up reality that we call 'the internet', which is living in an incredible but definite number of places. She/they are in fact, me, hey˗ˏˋ ˎˊ˗! 
 
 I am usually working on themes such as connection, collection, and computing. I am writing poems, publishing, editing, ink stamping, and sometimes working with textile. I am currently writing poems about our relationships with computers and each other, creating Issue 0 of [Edges](https://edgesmag.net), and making other zines and publications for *holly garden* (see: holly garden catalogue, below). 
 
