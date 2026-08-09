@@ -20,15 +20,15 @@ In the past, I have studied anthropology and ethnography, and conducted research
 
 **Five most recent entries:**
 
-2026  ★  Cyberia Radio, as part of [*Fanon Radio*](https://fanon.radio/)'s 12 hour opening marathon
+2026  ✬  Facilitating [HTML day](https://2026.html.energy/) at the [Internet Archive Europe](https://www.internetarchive.eu/) *(although, entirely organised by [Zinzy](https://www.zinzy.website/) who listed the participants [here](https://www.zinzy.website/2026/08/08/that-was-html-day-2026-amsterdam-edition/)!!)* 
 
-2026  ✪  [A Eulogy for Mii](https://tommi.space/mii-eulogy/), written with [Tommi](https://tommi.space) for [Sevgi's](http://sevgi.gromits.space) Resurrecting Networks workshop at the [Internet Archive Europe](https://internetarchive.eu)
+2026  ★  [Cyberia Radio](https://cyberiaradio.neocities.org), as part of [*Fanon Radio*](https://fanon.radio/)'s 12 hour opening marathon
+
+2026  ✪  [A Eulogy for Mii](https://tommi.space/mii-eulogy/), written with [Tommi](https://tommi.space) for [Sevgi's](http://sevgi.gromits.space/) Resurrecting Networks workshop at the [Internet Archive Europe](https://internetarchive.eu)
 
 2026  ✪  [Technological Craft, in *almanac.sh*](https://publications.servus.at/2026-almanac.sh/almanac.html#third-moon)
 
 2026  ✩  Podcast production and editing, [Unsettling Knowledge](https://soundcloud.com/utrechtuniversity/sets/unsettling-knowledge) (since episode 28), as Technical Support Officer for [Re/Presenting Europe](https://re-presentingeurope.nl) ~
-
-2026  ✩  Digital archive management, Sport Historia, as Technical Support Officer for [Re/Presenting Europe](https://re-presentingeurope.nl) ~
 
 [more](https://holly.garden/log)
 
