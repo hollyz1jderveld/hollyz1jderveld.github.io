@@ -3,15 +3,15 @@ layout: default
 ---
 
 ## holly garden
-Welcome to this web garden. Although, on second thought, it is very small, so maybe it's more like an allotment or a patio or a balcony suspended by a tight net.
+Welcome to this web garden. Although, on second thought, it *is* very small, so maybe it's more like an allotment or a patio or a balcony suspended by a tight net.
 
 **Holly Zijderveld** is living-and-working-together in the place typically referred to as 'The Netherlands', as well as on this folded up reality that we call 'the internet', which is living in an incredible but definite number of places. She/they are in fact, me, hey° ᡣ𐭩 . ° .! 
 
-I am usually working on themes such as connection, collection, and computing, in the broadest ways you can understand these terms. I am writing poems, publishing, editing, ink stamping, and sometimes working with textile. I am currently writing poems about our relationships with computers and each other, creating Issue 0 of [Edges](https://edgesmag.net), and making other zines and publications for *holly garden* (see: holly garden catalogue, below). 
+I am usually working on themes such as connection, collection, and computing. I am writing poems, publishing, editing, ink stamping, and sometimes working with textile. I am currently writing poems about our relationships with computers and each other, creating Issue 0 of [Edges](https://edgesmag.net), and making other zines and publications for *holly garden* (see: holly garden catalogue, below). 
 
 These themes also play into my work as a humanities research technician, where I manage two community archives ([Culture Capsule](https://culturecapsule.nl) and an archive for sports in Curaçao, coming soon) and produce podcasts for the [Re/Presenting Europe project](https://re-presentingeurope.nl/). 
 
-In the past, I have studied anthropology and ethnography, and conducted research around [open source machine knitting practice](https://www.are.na/block/41968190). Currently, I am reading a lot of [Clarice Lispector](https://www.are.na/holly-zijderveld/clarice-lispector-w0v1gdvrpcc) and thinking about [self-models](https://supergijs.com/researchgroup.html). In the future, I hope to learn more about synthesis and radio.
+In the past, I have studied anthropology and ethnography, and conducted research about [academic disourse around sex robots](https://www.researchgate.net/profile/Holly-Zijderveld/publication/382625206_Talking_About_Sex_Robots_Mapping_academic_controversy_in_sex_robot_discourse/links/66a61066de060e4c7e60f0f5/Talking-About-Sex-Robots-Mapping-academic-controversy-in-sex-robot-discourse.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ) & [open source machine knitting practice](https://www.are.na/block/41968190). Currently, I am reading [Frank O'Hara](https://en.wikipedia.org/wiki/Frank_O'Hara) and thinking-together about [self-models](https://supergijs.com/researchgroup.html). In the future, I hope to learn more about synthesis and radio.
 
 ### you can see what I've been up to in my [log](https://holly.garden/log).
 ***Garden opening hours:***
@@ -56,6 +56,6 @@ Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creat
 
 <- [previous](https://hotlinewebring.club/holly/previous) hotline webring [next](https://hotlinewebring.club/holly/next) -> 
 
-*there was a heatwave here in the netherlands, and since i've moved here the warm weather can only ever mean time by the water. did you know, when i made this site, the background used to be an image of the texture of water?*
+*do u feel the [<energy>](https://2026.html.energy/)*
 
-*as of 18 May, 2026, this website is two years, five months, and twelve days old.*
+*as of 9 August, 2026, this website is two years, eight months, and four days old.*
