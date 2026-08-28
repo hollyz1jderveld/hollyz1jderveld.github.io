@@ -50,12 +50,12 @@ You can email me at hollyzijderveld [at] fastmail [dot] com. Find me on the [Fed
 
 ### colophon
 
-*This site can be dailed on the [Internet Phone Book](https://internetphonebook.net/#dial-a-site). Dial 20!*
+*This site can be dialed on the [Internet Phone Book](https://internetphonebook.net/#dial-a-site). Dial 20!*
 
 Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). 
 
 <- [previous](https://hotlinewebring.club/holly/previous) hotline webring [next](https://hotlinewebring.club/holly/next) -> 
 
-*do u feel the [< energy >](https://2026.html.energy/)*
+*is it a fear that i have that summer may be over? i guess that the wind and chill cannot bother me when i know that there are degrees of heat i cannot yet fathom, there are other things to be afraid of*
 
-*as of 9 August, 2026, this website is two years, eight months, and four days old.*
+*as of 28 August, 2026, this website is two years, eight months, and twenty-three days old.*
