@@ -33,7 +33,7 @@ In the past, I have studied anthropology and ethnography, and conducted research
 [more](https://holly.garden/log)
 
 ### talk to me
-You can email me at hollyzijderveld [at] fastmail [dot] com. Find me on the [Fediverse, at holly@pan.rent](https://pan.rent/@Holly). You can also find me on [are.na](https://www.are.na/holly-zijderveld/index). I love to receive paper mail, if we know each other then please ask for my address.
+You can email me at hollyzijderveld [at] fastmail [dot] com. Find me on the [Fediverse, at holly@pan.rent](https://pan.rent/@Holly). You can also find me on [are.na](https://www.are.na/holly-zijderveld/index). 
 
 ### colophon
 
