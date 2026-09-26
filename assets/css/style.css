@@ -1,19 +1,19 @@
 body {
-    color:#222222;
-    background-color: #FADCBB;
+    color:#FCF9F0;
+    background-color: #4b387d;
     margin-left: 50px;
     margin-right: 700px;
 }
 
 h2 {
-    color: #4b387d; 
+    color: #8BFF7A; 
     text-align: center;
 }
 
 a:link {
-    color:#4b387d; 
+    color:#8BFF7A; 
 }
 
 a:visited {
-    color:#4b387d;
+    color:#8BFF7A;
 }
