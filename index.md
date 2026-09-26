@@ -14,11 +14,11 @@ These themes also play into my work as a humanities research technician, where I
 In the past, I have studied anthropology and ethnography, and conducted research about [academic discourse around sex robots](https://www.researchgate.net/profile/Holly-Zijderveld/publication/382625206_Talking_About_Sex_Robots_Mapping_academic_controversy_in_sex_robot_discourse/links/66a61066de060e4c7e60f0f5/Talking-About-Sex-Robots-Mapping-academic-controversy-in-sex-robot-discourse.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ) & [open source machine knitting practice](https://www.are.na/block/41968190). Currently, I am reading [Frank O'Hara](https://en.wikipedia.org/wiki/Frank_O'Hara) and thinking-together about [self-models](https://supergijs.com/researchgroup.html). In the future, I hope to learn more about synthesis and radio.
 
 ### you can see what I've been up to in my [log](https://holly.garden/log).
-***Garden opening hours:***
+***garden opening hours:***
 
 *everything is mulch, the seeds are planted, but there is currently nothing concrete planned.*
 
-**Five most recent entries:**
+**five most recent entries:**
 
 2026  ✪  [Machine knitting, and knowing each other through (cyber)space, in *Needlebound Vol. 3*](https://www.needlebound.ca/shop/p/the-original-book-ttzy8-7nfah) 
 
@@ -43,6 +43,6 @@ Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creat
 
 <- [previous](https://hotlinewebring.club/holly/previous) hotline webring [next](https://hotlinewebring.club/holly/next) -> 
 
-*is it a fear that i have that summer may be over? i guess that the wind and chill cannot bother me when i know that there are degrees of heat i cannot yet fathom, there are other things to be afraid of*
+*and so i suppose we prepare to fall into deep slumber. these pixelated versions of us fall asleep in their server-beds, as we fall asleep in ours. in my mind you don't have a real name*
 
-*as of 28 August, 2026, this website is two years, eight months, and twenty-three days old.*
+*as of 26 September, 2026, this website is two years, nine months, and twenty-two days old.*
