@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## holly garden
-Welcome to the spider-web garden. Although on second thought it *is* very small, so maybe it's more like an allotment or a patio or a balcony, suspended by a tight net.
+Welcome to the spider-web garden. Although on second thought it *is* very small, so maybe it's more like an allotment or a patio, or a balcony suspended by a tight net.
 
 **Holly Zijderveld** is living-and-working-together in the place typically referred to as 'The Netherlands', as well as on this folded up reality that we call 'the internet', which is living in an incredible but definite number of places. She/they are in fact, me, hey˗ˏˋ ˎˊ˗! 
 
