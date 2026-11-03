@@ -43,6 +43,6 @@ Everything on this page is licensed under a [CC BY-SA 4.0 license](https://creat
 
 <- [previous](https://hotlinewebring.club/holly/previous) hotline webring [next](https://hotlinewebring.club/holly/next) -> 
 
-*and so i suppose we prepare to fall into deep slumber. these pixelated versions of us fall asleep in their server-beds, as we fall asleep in ours. in my mind you don't have a real name*
+*the ballet dancer is back outside of the music box again. when she breathes in, it's like she can feel every cell of her lungs in the november air. she never wants to go back*
 
-*as of 26 September, 2026, this website is two years, nine months, and twenty-two days old.*
+*as of 3 November, 2026, (the last time this website was updated) this website is two years, ten months, and twenty-nine days old.*
